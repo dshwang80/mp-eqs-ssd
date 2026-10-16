@@ -1,0 +1,29 @@
+Tier,Species,src,size_class_v2,size_class_v10,changed,n_eligible_rows,sizes_um,dates,run_type,basis,notes
+Acute,Aiptasiogeton eruptaurantia,ours,Single,Single-size data,Y,4,112.0,2025-10-02,within-run,"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Artemia franciscana,ours,Multiple,Single-size data,Y,2,"20.0,112.0",2022-11-14|미기록,within-run/미기록 혼재 (1 실기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Brachionus koreanus,ours,Single,Single-size data,Y,8,112.0,미기록,run 구분 불가(전부 날짜 미기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Haliotis discus hannai,ours,Single,Single-size data,Y,1,20.0,2022-08-03,within-run,"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Macrophthalmus japonicus,ours,Multiple,Single-size data,Y,13,"20.0,112.0",2023-08-04|미기록,within-run/미기록 혼재 (1 실기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Mesocentrotus nudus,ours,Multiple,Single-size data,Y,3,"20.0,112.0",2022-09-29|2024-09-27|미기록,within-run/미기록 혼재 (2 실기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Mytilus galloprovincialis,ours,Multiple,Single-size data,Y,11,"20.0,112.0",2022-08-05|2022-11-02|미기록,within-run/미기록 혼재 (2 실기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Neomysis awatschensis,ours,Multiple,Single-size data,Y,2,"112.0,150.0",2024-06|2025-11-01,across-run (2 dates),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Paralichthys olivaceus,ours,Single,Single-size data,Y,6,112.0,미기록,run 구분 불가(전부 날짜 미기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Penaeus vannamei,ours,Multiple,Single-size data,Y,2,"20.0,112.0",2024-04-10|미기록,within-run/미기록 혼재 (1 실기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Ruditapes philippinarum,ours,Multiple,Single-size data,Y,10,"20.0,112.0",2022-08.28|미기록,within-run/미기록 혼재 (1 실기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Sebastes schlegeli,ours,Multiple,Single-size data,Y,2,"20.0,112.0",2022-07-20|미기록,within-run/미기록 혼재 (1 실기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Acute,Tigriopus japonicus,ours,Single,Single-size data,Y,4,112.0,미기록,run 구분 불가(전부 날짜 미기록),"급성 ours 68행 적격 레코드 (Sheet,No)→Extended_Long 조인",
+Chronic,Haliotis discus hannai,ours,Multiple,Multiple-size data,Y,1,"20.0,60.0,300.0",2022-08-03,within-run,"만성 ours 캠페인 상세 (v9 파이프라인 detail 재파싱, candidates n_size 대조)",
+Chronic,Mesocentrotus nudus,ours,Multiple,Multiple-size data,Y,1,"20.0,60.0,150.0,300.0",2022-09-29|2024-09-30,across-run (2 dates),"만성 ours 캠페인 상세 (v9 파이프라인 detail 재파싱, candidates n_size 대조)",
+Chronic,Mytilus galloprovincialis,ours,Multiple,Multiple-size data,Y,1,"17.5,20.0,60.0,150.0,300.0",2022-11-02|2023-05-17,across-run (2 dates),"만성 ours 캠페인 상세 (v9 파이프라인 detail 재파싱, candidates n_size 대조)",
+Chronic,Penaeus vannamei,ours,Multiple,Multiple-size data,Y,1,"20.0,60.0,150.0",2024-04-10,within-run,"만성 ours 캠페인 상세 (v9 파이프라인 detail 재파싱, candidates n_size 대조)",
+Chronic,Macrophthalmus japonicus,ours,Multiple,Single-size data,Y,1,"60.0,150.0",2024-06-08|2024-06-20,across-run (2 dates),"만성 ours 캠페인 상세 (v9 파이프라인 detail 재파싱, candidates n_size 대조)",
+Chronic,Monocorophium uenoi,ours,Single,Single-size data,Y,1,60.0,2024-06-18,within-run,"만성 ours 캠페인 상세 (v9 파이프라인 detail 재파싱, candidates n_size 대조)",
+Chronic,Tigriopus japonicus,ours,Single,Single-size data,Y,1,150.0,2023-,within-run,"만성 ours 캠페인 상세 (v9 파이프라인 detail 재파싱, candidates n_size 대조)",
+Chronic,Artemia franciscana,ours,Multiple,Both size-data types,Y,1,"20.0,60.0,150.0,250.0",2023-06-02|2023-08-15,across-run (2 dates),"만성 ours 캠페인 상세 (v9 파이프라인 detail 재파싱, candidates n_size 대조)",
+Chronic,Crepidula onyx,ToMEx_fix1000,Single,Unclassified,Y,9,3.5,,단일 연구계열(DOI 1)·단일 크기,만성 ToMEx_fix1000 사용행(FIG2 만성 태그행 전수가 동일 DOI×크기),사용행 포함 전 FIG2 만성 태그행이 동일 DOI·동일 크기
+Chronic,Cyprinodon variegatus,Jung2021-marine,Unclassified,Unclassified,N,1,12~704,,연구계열=원문연구(source) 특정 가능,"만성 Jung2021 Table 1 사용행 (source=원문연구, size_um 범위 표기)",크기조건이 범위 표기(12~704 μm) — 독립 크기조건 구성 확인 불가 → 규칙 조작 없이 Unclassified 유지
+Chronic,Heliopora coerulea,Jung2021-marine,Unclassified,Unclassified,N,1,65~410,,연구계열=원문연구(source) 특정 가능,"만성 Jung2021 Table 1 사용행 (source=원문연구, size_um 범위 표기)",크기조건이 범위 표기(65~410 μm) — 독립 크기조건 구성 확인 불가 → 규칙 조작 없이 Unclassified 유지
+Chronic,Oryzias melastigma,ToMEx_fix1000,Single,Unclassified,Y,372,10,,단일 연구계열(DOI 1)·단일 크기,만성 ToMEx_fix1000 사용행(FIG2 만성 태그행 전수가 동일 DOI×크기),사용행 포함 전 FIG2 만성 태그행이 동일 DOI·동일 크기
+Chronic,Ostrea edulis,Jung2021-marine,Unclassified,Unclassified,N,1,0.48~316,,연구계열=원문연구(source) 특정 가능,"만성 Jung2021 Table 1 사용행 (source=원문연구, size_um 범위 표기)",크기조건이 범위 표기(0.48~316 μm) — 독립 크기조건 구성 확인 불가 → 규칙 조작 없이 Unclassified 유지
+Chronic,Paracentrotus lividus,Jung2021-marine,Unclassified,Unclassified,N,1,<80,,연구계열=원문연구(source) 특정 가능,"만성 Jung2021 Table 1 사용행 (source=원문연구, size_um 범위 표기)",크기조건이 범위 표기(<80 μm) — 독립 크기조건 구성 확인 불가 → 규칙 조작 없이 Unclassified 유지
+Chronic,Pinctada margaritifera,ToMEx_fix1000,Single,Unclassified,Y,21,8,,단일 연구계열(DOI 1)·단일 크기,만성 ToMEx_fix1000 사용행(FIG2 만성 태그행 전수가 동일 DOI×크기),사용행 포함 전 FIG2 만성 태그행이 동일 DOI·동일 크기

@@ -1,0 +1,7 @@
+﻿Type,Shape,Size,Size (um),Paticle(per2mg)
+PET,Fragment,Large,20,"469,048"
+PET,Fragment,Medium,45-75,"59,733"
+PET,Fragment,Small,>150,"12,515"
+PET,Fiber,Small,200-400,"101,333"
+PET,Fiber,Large,3000,"2,074"
+Paint particle,-,-,-,"482,380"

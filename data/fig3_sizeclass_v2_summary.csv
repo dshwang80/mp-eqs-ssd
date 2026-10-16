@@ -1,0 +1,17 @@
+﻿panel,level_1,0,both_species
+FD-Median,n_species,19,Mytilus galloprovincialis; Tigriopus japonicus
+FD-Median,Multiple-size data,10,Mytilus galloprovincialis; Tigriopus japonicus
+FD-Median,Single-size data,7,Mytilus galloprovincialis; Tigriopus japonicus
+FD-Median,Both size-data types,2,Mytilus galloprovincialis; Tigriopus japonicus
+FD-Q1,n_species,20,Mytilus galloprovincialis; Tigriopus japonicus
+FD-Q1,Multiple-size data,10,Mytilus galloprovincialis; Tigriopus japonicus
+FD-Q1,Single-size data,8,Mytilus galloprovincialis; Tigriopus japonicus
+FD-Q1,Both size-data types,2,Mytilus galloprovincialis; Tigriopus japonicus
+TT-Median,n_species,23,Mytilus galloprovincialis; Tigriopus japonicus
+TT-Median,Single-size data,11,Mytilus galloprovincialis; Tigriopus japonicus
+TT-Median,Multiple-size data,10,Mytilus galloprovincialis; Tigriopus japonicus
+TT-Median,Both size-data types,2,Mytilus galloprovincialis; Tigriopus japonicus
+TT-Q1,n_species,26,Mytilus galloprovincialis; Tigriopus japonicus
+TT-Q1,Single-size data,14,Mytilus galloprovincialis; Tigriopus japonicus
+TT-Q1,Multiple-size data,10,Mytilus galloprovincialis; Tigriopus japonicus
+TT-Q1,Both size-data types,2,Mytilus galloprovincialis; Tigriopus japonicus

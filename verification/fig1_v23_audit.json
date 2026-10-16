@@ -1,0 +1,381 @@
+{
+ "panel_a": {
+  "parity": true,
+  "direction": "forward 20 -> 45-75 um",
+  "n_pairs": 18,
+  "alpha": 2.07,
+  "median_afe": 17.61311642950193,
+  "pct_f2": 5.555555555555555,
+  "pct_f10": 16.666666666666668,
+  "ci_afe": [
+   11.346798912221082,
+   25.93500905388187
+  ],
+  "ci_f2": [
+   0.0,
+   17.647058823529413
+  ],
+  "ci_f10": [
+   0.0,
+   36.8421052631579
+  ],
+  "alpha_16": 1.6,
+  "median_afe_16": 30.529632950854666,
+  "pct_f2_16": 0.0,
+  "pct_f10_16": 11.11111111111111,
+  "ci_afe_16": [
+   18.71911653828733,
+   42.45724462358436
+  ],
+  "ci_f2_16": [
+   0.0,
+   0.0
+  ],
+  "ci_f10_16": [
+   0.0,
+   29.41176470588235
+  ],
+  "alpha_best": 4.61,
+  "median_afe_best": 1.9428883462619002,
+  "pct_f2_best": 61.111111111111114,
+  "pct_f10_best": 72.22222222222223,
+  "ci_afe_best": [
+   1.418509072173389,
+   4.7134993316169655
+  ],
+  "ci_f2_best": [
+   41.1764705882353,
+   82.3529411764706
+  ],
+  "ci_f10_best": [
+   52.94117647058823,
+   88.88888888888889
+  ],
+  "alpha_best_in_figure": false,
+  "emphasis_note": "v22: alpha 2.07 (seawater) emphasized - legend first, drawn last on top; alpha 1.60 (generic) muted; colours unified across panels: 2.07 blue / 1.60 grey; legend terms unified: 2.07 seawater / 1.60 generic (user 2026-10-15)",
+  "pair_list": [
+   {
+    "sp": "Sebastes schlegeli",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 93809599.99999991,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 309835179.1631047,
+    "obs": 11946599.999999985,
+    "fe": 25.935009053881867,
+    "afe": 25.935009053881867
+   },
+   {
+    "sp": "Sebastes schlegeli",
+    "tier": "Chronic",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 4690479.999999998,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 15491758.958155246,
+    "obs": 597329.9999999995,
+    "fe": 25.93500905388187,
+    "afe": 25.93500905388187
+   },
+   {
+    "sp": "Neomysis awatschensis",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 15.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 6257225.8663686,
+    "a_raw": "15–20",
+    "b_raw": "45–75",
+    "pred": 3069407.670306424,
+    "obs": 1768648.5965079144,
+    "fe": 1.7354536544833026,
+    "afe": 1.7354536544833026
+   },
+   {
+    "sp": "Aiptasiogeton eruptaurantia",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 15.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 15396639.027481265,
+    "a_raw": "15–20",
+    "b_raw": "45–75",
+    "pred": 7552638.011981641,
+    "obs": 1791990.000000001,
+    "fe": 4.214665267095038,
+    "afe": 4.214665267095038
+   },
+   {
+    "sp": "Brachionus koreanus",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 15.0,
+    "ahi": 15.0,
+    "blo": 32.0,
+    "bhi": 45.0,
+    "ec_a": 93809600.00000025,
+    "a_raw": "15–15",
+    "b_raw": "32–45",
+    "pred": 178478997.61555386,
+    "obs": 414800.00000000105,
+    "fe": 430.27723629593396,
+    "afe": 430.27723629593396
+   },
+   {
+    "sp": "Brachionus koreanus",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 15.0,
+    "ahi": 15.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 93809600.00000025,
+    "a_raw": "15–15",
+    "b_raw": "45–75",
+    "pred": 170719741.28847358,
+    "obs": 11946599.999999985,
+    "fe": 14.290236660512095,
+    "afe": 14.290236660512095
+   },
+   {
+    "sp": "Brachionus koreanus",
+    "tier": "Chronic",
+    "tt": "small2mid",
+    "alo": 15.0,
+    "ahi": 15.0,
+    "blo": 32.0,
+    "bhi": 45.0,
+    "ec_a": 46904800.00000004,
+    "a_raw": "15–15",
+    "b_raw": "32–45",
+    "pred": 89239498.80777676,
+    "obs": 207400.00000000015,
+    "fe": 430.27723629593396,
+    "afe": 430.27723629593396
+   },
+   {
+    "sp": "Brachionus koreanus",
+    "tier": "Chronic",
+    "tt": "small2mid",
+    "alo": 15.0,
+    "ahi": 15.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 46904800.00000004,
+    "a_raw": "15–15",
+    "b_raw": "45–75",
+    "pred": 85359870.64423662,
+    "obs": 5973300.000000045,
+    "fe": 14.290236660511942,
+    "afe": 14.290236660511942
+   },
+   {
+    "sp": "Haliotis discus hannai",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 396945.1168748875,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 1311033.8537297933,
+    "obs": 62621.03992091099,
+    "fe": 20.93599619849176,
+    "afe": 20.93599619849176
+   },
+   {
+    "sp": "Haliotis discus hannai",
+    "tier": "Chronic",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 967369.2688081634,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 3195035.803564445,
+    "obs": 17284.430232245973,
+    "fe": 184.8505134756343,
+    "afe": 184.8505134756343
+   },
+   {
+    "sp": "Mytilus galloprovincialis",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 19429885.919128258,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 64173199.59654231,
+    "obs": 2525362.689709171,
+    "fe": 25.411478461310722,
+    "afe": 25.411478461310722
+   },
+   {
+    "sp": "Mytilus galloprovincialis",
+    "tier": "Chronic",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 2265829.668442397,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 7483602.331477044,
+    "obs": 800307.8609000103,
+    "fe": 9.350904442024515,
+    "afe": 9.350904442024515
+   },
+   {
+    "sp": "Macrophthalmus japonicus",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 312946.02405640687,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 1033600.9047250834,
+    "obs": 88479.38882708887,
+    "fe": 11.681826902590855,
+    "afe": 11.681826902590855
+   },
+   {
+    "sp": "Macrophthalmus japonicus",
+    "tier": "Chronic",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 283466.10111362394,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 936234.3536824217,
+    "obs": 83687.10766901911,
+    "fe": 11.187318808832662,
+    "afe": 11.187318808832662
+   },
+   {
+    "sp": "Mesocentrotus nudus",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 27787910.93562114,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 91778158.77379908,
+    "obs": 7110769.786602952,
+    "fe": 12.906923093855992,
+    "afe": 12.906923093855992
+   },
+   {
+    "sp": "Mesocentrotus nudus",
+    "tier": "Chronic",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 38554732.10938883,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 127338911.27025385,
+    "obs": 3033628.803379724,
+    "fe": 41.975772094590916,
+    "afe": 41.975772094590916
+   },
+   {
+    "sp": "Perinereis linea",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 158256694.36249217,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 522691614.2011427,
+    "obs": 46065116.53592249,
+    "fe": 11.346798912221082,
+    "afe": 11.346798912221082
+   },
+   {
+    "sp": "Ruditapes philippinarum",
+    "tier": "Acute",
+    "tt": "small2mid",
+    "alo": 20.0,
+    "ahi": 20.0,
+    "blo": 45.0,
+    "bhi": 75.0,
+    "ec_a": 117.26200000000004,
+    "a_raw": "20–20",
+    "b_raw": "45–75",
+    "pred": 387.2939739538814,
+    "obs": 597329.9999999995,
+    "fe": 0.0006483752263470472,
+    "afe": 1542.316793369806
+   }
+  ]
+ },
+ "panel_b": {
+  "size_distributions": true,
+  "model": "p(L) proportional to L**(-alpha)",
+  "alphas": {
+   "alpha_16": 1.6,
+   "alpha_207": 2.07
+  },
+  "labels": {
+   "alpha_16": "generic",
+   "alpha_207": "seawater"
+  },
+  "normalization_interval_um": [
+   20.0,
+   300.0
+  ],
+  "norm_constant_alpha_16": 4.50841646553964,
+  "norm_constant_alpha_207": 27.933487178751083,
+  "numeric_integral_alpha_16": 1.0,
+  "numeric_integral_alpha_207": 0.9999999999999997,
+  "x_range_um": [
+   1.0,
+   5000.0
+  ],
+  "band_shaded": true,
+  "curves_cross_at_um": 48.45309799291764,
+  "note": "v22 replaces the FD panel; both curves normalized on the SAME 20-300 um interval. Median FD x30.5 (alpha 1.60) / x17.6 (alpha 2.07) reportable in text; normalization accuracy must NOT be claimed as validated."
+ },
+ "provenance": {
+  "removed_from_main": {
+   "published_evidence": "moved to SI Fig S1 (user 2026-09-22)",
+   "controlled_validation": "dropped; exposed size fractions to be stated in Methods text"
+  },
+  "supersedes": "fig1_empirical_test_v21.py (v22: best-fit series removed; 2.07 emphasized; panel (b) replaced by power-law size distributions)"
+ }
+}

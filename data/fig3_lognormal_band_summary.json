@@ -1,0 +1,51 @@
+{
+ "seed": 20261011,
+ "nboot": 1000,
+ "panels": {
+  "fd_q1": {
+   "n": 20,
+   "mu": 9.498794,
+   "sigma": 5.733743,
+   "HC5_curve": 1.0699648593428892,
+   "targets": {
+    "TR2": 1.0699648593428874,
+    "none": null
+   },
+   "assert_curve5_curve10": true,
+   "v4_ssdtools_hc5_reference": 0.749846
+  },
+  "tt_q1": {
+   "n": 26,
+   "mu": 14.837418,
+   "sigma": 6.791,
+   "HC5_curve": 39.1427948722087,
+   "targets": {
+    "TR2": 39.14279487220863,
+    "none": null
+   },
+   "assert_curve5_curve10": true
+  },
+  "fd_md": {
+   "n": 19,
+   "mu": 10.575101,
+   "sigma": 4.942949,
+   "HC5_curve": 11.526776528712169,
+   "targets": {
+    "TR3": 11.526776528712167,
+    "TR4": 69.43953823819646
+   },
+   "assert_curve5_curve10": true
+  },
+  "tt_md": {
+   "n": 23,
+   "mu": 15.248163,
+   "sigma": 6.245147,
+   "HC5_curve": 144.86619364727025,
+   "targets": {
+    "TR3": 144.86619364727025,
+    "TR4": 1400.640966842585
+   },
+   "assert_curve5_curve10": true
+  }
+ }
+}

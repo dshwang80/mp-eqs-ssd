@@ -1,0 +1,21 @@
+size-class v2 gate FD-Q1: Multiple-size data=10 Single-size data=8 Both size-data types=2 Unclassified=0 ; n_spp=20 ; run_type_ours: =8 Within-run=3 Within+Across-run=9
+size-class v2 gate TT-Q1: Multiple-size data=10 Single-size data=14 Both size-data types=2 Unclassified=0 ; n_spp=26 ; run_type_ours: =14 Within-run=5 Within+Across-run=7
+size-class v2 gate FD-Median: Multiple-size data=10 Single-size data=7 Both size-data types=2 Unclassified=0 ; n_spp=19 ; run_type_ours: =7 Within-run=3 Within+Across-run=9
+size-class v2 gate TT-Median: Multiple-size data=10 Single-size data=11 Both size-data types=2 Unclassified=0 ; n_spp=23 ; run_type_ours: =11 Within-run=5 Within+Across-run=7
+vlines locked: fd_q1_v1=0.025481 ; fd_q1_v2=1.07 ; fd_md_v1=11.527 ; fd_md_v2=69.44 ; tt_q1_v1=0.69103 ; tt_q1_v2=39.143 ; tt_md_v1=144.87 ; tt_md_v2=1400.6
+-- food_dilution/q1_all: n=20 spp, 367 effects; conc=11.57..7.997e+08; size-class: Multiple-size data=10 Single-size data=8 Both size-data types=2 Unclassified=0
+   engine lognormal: HC5=1.07=TR-locked | band lcl(0.05)=0.02548=TR1 | ucl(0.05)=78.68 | lcl(0.10)=0.3554 ucl(0.10)=363.3 (95% boot of the SAME fit)
+   legend keys: 95% CI, Multiple-size data, Single-size data, Both size-data types
+   pp=native (r-0.5)/n ; x-range=10^-4.0..10^12.8 ; breaks=1e-03,1e+00,1e+03,1e+06,1e+09,1e+12
+-- translocation/q1_all: n=26 spp, 288 effects; conc=390.3..3.782e+12; size-class: Multiple-size data=10 Single-size data=14 Both size-data types=2 Unclassified=0
+   engine lognormal: HC5=39.14=TR-locked | band lcl(0.05)=0.691=TR1 | ucl(0.05)=2757 | lcl(0.10)=13.65 ucl(0.10)=1.965e+04 (95% boot of the SAME fit)
+   legend keys: 95% CI, Multiple-size data, Single-size data, Both size-data types
+   pp=native (r-0.5)/n ; x-range=10^-3.0..10^18.8 ; breaks=1e-03,1e+00,1e+03,1e+06,1e+09,1e+12,1e+15,1e+18
+-- food_dilution/median_organism_population: n=19 spp, 184 effects; conc=134.3..7.997e+08; size-class: Multiple-size data=10 Single-size data=7 Both size-data types=2 Unclassified=0
+   engine lognormal: HC5=11.53 curve(0.10)=69.44=TR4 | band lcl(0.05)=0.4823 ucl(0.05)=435.9 (95% boot of the SAME fit)
+   legend keys: 95% CI, Multiple-size data, Single-size data, Both size-data types
+   pp=native (r-0.5)/n ; x-range=10^-3.0..10^12.8 ; breaks=1e-03,1e+00,1e+03,1e+06,1e+09,1e+12
+-- translocation/median_organism_population: n=23 spp, 141 effects; conc=1637..3.782e+12; size-class: Multiple-size data=10 Single-size data=11 Both size-data types=2 Unclassified=0
+   engine lognormal: HC5=144.9 curve(0.10)=1401=TR4 | band lcl(0.05)=3.288 ucl(0.05)=7563 (95% boot of the SAME fit)
+   legend keys: 95% CI, Multiple-size data, Single-size data, Both size-data types
+   pp=native (r-0.5)/n ; x-range=10^-2.0..10^15.8 ; breaks=1e+00,1e+03,1e+06,1e+09,1e+12,1e+15

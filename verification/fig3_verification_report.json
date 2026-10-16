@@ -1,0 +1,20 @@
+{
+  "task": "fig2/fig3 확정 전 INFO 2-검증 산출물 승격 저장 (2026-10-14)",
+  "verify1_engine_rerun": {
+    "cmd": "python3 ssd_tomex_alpha207.py --input /tmp/merged_T12_20_300.csv --output /tmp/fig3_engine_verify --size-min 20 --size-max 300",
+    "result": "88종 max|deltaConc|=0, TR 8행 일치"
+  },
+  "verify1_lineage": {
+    "fig2_dose_raw_values_Domestic_Long": "No 97, 358-360, 376-380 (LC50 0.651/0.575/0.437/0.315/0.307, EC50 29.230/40.920/132.900/9.040)",
+    "fig3_dose_source": "Domestic_Raw_Derived.csv 4PL refit 13 values",
+    "finding": "fig2 raw dose values absent from fig3 merged (0 hit tol 1e-6): fig2 vs fig3 dose system fundamentally different"
+  },
+  "verify2_source_split": {
+    "lit_only": "FD 10 species, TT 16 species",
+    "ours_only": "FD 12, TT 12 (both sufficient >=5 species)",
+    "engine": "ssd_tomex_alpha207.py CLI identical --size-min 20 --size-max 300",
+    "result": "split refits ran clean, no warnings",
+    "verdict": "Combined TR = conservative lower bound across sources; keep current figure, no forced TR removal"
+  },
+  "info_gates_compliance": "all 6 INFO prohibitions respected: no Both-species deletion, no forced TR on insufficient data, no 'ours intrinsically more sensitive' conclusion, no particle-size explanation for FD, no AF-coefficient cross-experiment alignment, no size-standardization-only explanation"
+}

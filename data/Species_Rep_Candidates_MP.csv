@@ -1,0 +1,1104 @@
+﻿Sheet,No,Category,Species_Name,Life_stage,Environment,Type,Shape,Size_um,Test_duration,Acute,Chronic,Endpoint_classification,Endpoint_Type,Endpoint_Unit,Endpoint_Value,Censor_Dir,Censor_Raw,Censor_Currency,_cdir,Tier,_cur,_grp,_invivo
+MP,1,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,20,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,2,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,3,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,> 150,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,4,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,20,48 h,o,,Apoptosis (세포독성),EC50,mg/L,358.82,,,,,Acute,EC50,Biomarker,False
+MP,5,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,45–75,48 h,o,,Apoptosis (세포독성),NOEC,mg/L,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,6,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,> 150,48 h,o,,Apoptosis (세포독성),NOEC,mg/L,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,7,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,20,48 h,o,,Phagocytosis (세포독성),NOEC,mg/L,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,8,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,45–75,48 h,o,,Phagocytosis (세포독성),NOEC,mg/L,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,9,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,> 150,48 h,o,,Phagocytosis (세포독성),NOEC,mg/L,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,10,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,20,48 h,o,,Cell cycle arrest (세포독성),NOEC,mg/L,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,11,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,45–75,48 h,o,,Cell cycle arrest (세포독성),NOEC,mg/L,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,12,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,> 150,48 h,o,,Cell cycle arrest (세포독성),NOEC,mg/L,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,13,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,20,22 d,,o,Survival rate (생존율),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,14,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,45–75,22 d,,o,Survival rate (생존율),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,15,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,> 150,22 d,,o,Survival rate (생존율),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,16,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,20,22 d,,o,growth rate (성장률),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,17,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,45–75,22 d,,o,growth rate (성장률),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,18,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fragment,> 150,22 d,,o,growth rate (성장률),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,19,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,200–400,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,20,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,3000,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,21,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,200–400,48 h,o,,Apoptosis (세포독성),EC10,mg/L,40.93,,,,,Acute,EC10,Biomarker,False
+MP,22,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,3000,48 h,o,,Apoptosis (세포독성),EC10,mg/L,1.44,,,,,Acute,EC10,Biomarker,False
+MP,23,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,200–400,20 d,,o,Survival rate (생존율),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,24,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,3000,20 d,,o,Survival rate (생존율),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,25,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,200–400,20 d,,o,growth rate (성장률),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,26,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,3000,20 d,,o,growth rate (성장률),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,27,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,200–400,20 d,,o,Apoptosis (세포독성),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Biomarker,False
+MP,28,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,3000,20 d,,o,Apoptosis (세포독성),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Biomarker,False
+MP,29,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,200–400,20 d,,o,Cell cycle arrest (세포독성),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Biomarker,False
+MP,30,조피볼락,Sebastes schlegeli,Juvenile,Seawater,PET,Fiber,3000,20 d,,o,Cell cycle arrest (세포독성),EC50,mg/L,0.36,,,,,Chronic,EC50,Biomarker,False
+MP,31,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,15-20,96 h,o,,Survival rate (생존율),LC50,mg/L,62.7,,,,,Acute,LC50,Apical-core,True
+MP,32,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,45-75,96 h,o,,Survival rate (생존율),LC50,mg/L,107.9,,,,,Acute,LC50,Apical-core,True
+MP,33,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,150,96 h,o,,Survival rate (생존율),LC50,mg/L,1000.0,>,>1000,LC50,>,Acute,LC50,Apical-core,True
+MP,34,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,100-200,96 h,o,,Survival rate (생존율),LC50,mg/L,44.8,,,,,Acute,LC50,Apical-core,True
+MP,35,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),LC50,mg/L,875.9,,,,,Acute,LC50,Apical-core,True
+MP,36,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),LC50,mg/L,1000.0,>,>1000,LC50,>,Acute,LC50,Apical-core,True
+MP,37,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,15-20,96 h,o,,Survival rate (생존율),LC10,mg/L,45.3,,,,,Acute,LC10,Apical-core,True
+MP,38,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,45-75,96 h,o,,Survival rate (생존율),LC10,mg/L,58.9,,,,,Acute,LC10,Apical-core,True
+MP,39,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,150,96 h,o,,Survival rate (생존율),LC10,mg/L,58.9,,,,,Acute,LC10,Apical-core,True
+MP,40,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,100-200,96 h,o,,Survival rate (생존율),LC10,mg/L,32.9,,,,,Acute,LC10,Apical-core,True
+MP,41,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),LC10,mg/L,367.2,,,,,Acute,LC10,Apical-core,True
+MP,42,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),LC10,mg/L,294.1,,,,,Acute,LC10,Apical-core,True
+MP,43,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,15-20,96 h,o,,Survival rate (생존율),NOEC,mg/L,14.0,,,,,Acute,NOEC,Apical-core,True
+MP,44,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,45-75,96 h,o,,Survival rate (생존율),NOEC,mg/L,38.7,,,,,Acute,NOEC,Apical-core,True
+MP,45,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,150,96 h,o,,Survival rate (생존율),NOEC,mg/L,45.9,,,,,Acute,NOEC,Apical-core,True
+MP,46,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,100-200,96 h,o,,Survival rate (생존율),NOEC,mg/L,17.6,,,,,Acute,NOEC,Apical-core,True
+MP,47,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),NOEC,mg/L,50.0,,,,,Acute,NOEC,Apical-core,True
+MP,48,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),NOEC,mg/L,253.6,,,,,Acute,NOEC,Apical-core,True
+MP,49,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,15-20,96 h,o,,Survival rate (생존율),LOEC,mg/L,20.0,,,,,Acute,LOEC,Apical-core,True
+MP,50,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,45-75,96 h,o,,Survival rate (생존율),LOEC,mg/L,60.0,,,,,Acute,LOEC,Apical-core,True
+MP,51,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,150,96 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,,,,,Acute,LOEC,Apical-core,True
+MP,52,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,100-200,96 h,o,,Survival rate (생존율),LOEC,mg/L,20.0,,,,,Acute,LOEC,Apical-core,True
+MP,53,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),LOEC,mg/L,100.0,,,,,Acute,LOEC,Apical-core,True
+MP,54,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),LOEC,mg/L,300.0,,,,,Acute,LOEC,Apical-core,True
+MP,55,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,15-20,96 h,o,,Survival rate (생존율),MATC,mg/L,17.0,,,,,Acute,MATC,Apical-core,True
+MP,56,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,45-75,96 h,o,,Survival rate (생존율),MATC,mg/L,49.35,,,,,Acute,MATC,Apical-core,True
+MP,57,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fragment,150,96 h,o,,Survival rate (생존율),MATC,mg/L,62.95,,,,,Acute,MATC,Apical-core,True
+MP,58,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,100-200,96 h,o,,Survival rate (생존율),MATC,mg/L,18.8,,,,,Acute,MATC,Apical-core,True
+MP,59,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),MATC,mg/L,75.0,,,,,Acute,MATC,Apical-core,True
+MP,60,까막 곤쟁이,Neomysis awatschensis,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),MATC,mg/L,276.8,,,,,Acute,MATC,Apical-core,True
+MP,61,말미잘,Aiptasiogeton eruptaurantia,Adult,Seawater,PET,Fragment,15-20,96 h,o,,Ingestion rate (섭식율),EC10,mg/L,86.2,,,,,Acute,EC10,Physiological,True
+MP,61,말미잘,Aiptasiogeton eruptaurantia,Adult,Seawater,PET,Fragment,15-20,96 h,o,,Ingestion rate (섭식율),NOEC,mg/L,50.0,,,,,Acute,NOEC,Physiological,True
+MP,62,말미잘,Aiptasiogeton eruptaurantia,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Ingestion rate (섭식율),NOEC,mg/L,60.0,,,,,Acute,NOEC,Physiological,True
+MP,63,말미잘,Aiptasiogeton eruptaurantia,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Ingestion rate (섭식율),NOEC,mg/L,60.0,,,,,Acute,NOEC,Physiological,True
+MP,64,말미잘,Aiptasiogeton eruptaurantia,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Ingestion rate (섭식율),NOEC,mg/L,100.0,,,,,Acute,NOEC,Physiological,True
+MP,65,말미잘,Aiptasiogeton eruptaurantia,Adult,Seawater,PET,FIber,3000,96 h,o,,Ingestion rate (섭식율),NOEC,mg/L,300.0,,,,,Acute,NOEC,Physiological,True
+MP,66,말미잘,Aiptasiogeton eruptaurantia,Adult,Seawater,PET,FIber,< 100,96 h,o,,Ingestion rate (섭식율),NOEC,mg/L,50.0,,,,,Acute,NOEC,Physiological,True
+MP,67,요각류,Tigriopus japonicus,Adult,Seawater,PET,Fragment,<20,28 d,,o,Growth rate (성장률),EC50,mg/L,7.07,,,,,Chronic,EC50,Apical-core,True
+MP,67,요각류,Tigriopus japonicus,Adult,Seawater,PET,Fragment,<20,28 d,,o,Growth rate (성장률),EC10,mg/L,0.49,,,,,Chronic,EC10,Apical-core,True
+MP,68,요각류,Tigriopus japonicus,Adult,Seawater,PET,Fiber,0.05,4 weeks,,o,Growth rate (성장률),EC50,mg/L,123.1,,,,,Chronic,EC50,Apical-core,True
+MP,68,요각류,Tigriopus japonicus,Adult,Seawater,PET,Fiber,0.05,4 weeks,,o,Growth rate (성장률),EC10,mg/L,96.29,,,,,Chronic,EC10,Apical-core,True
+MP,69,돌돔,Oplegnathus fasciatus,Juvenile,Seawater,PET,Fragment,20,3 weeks,,o,Growth rate (성장률),EC50,mg/L,11.58,,,,,Chronic,EC50,Apical-core,True
+MP,69,돌돔,Oplegnathus fasciatus,Juvenile,Seawater,PET,Fragment,20,3 weeks,,o,Growth rate (성장률),EC10,mg/L,8.08,,,,,Chronic,EC10,Apical-core,True
+MP,70,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LC50,mg/L,20.86,,,,,Acute,LC50,Apical-core,True
+MP,71,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LC10,mg/L,5.54,,,,,Acute,LC10,Apical-core,True
+MP,72,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),NOEC,mg/L,2.5,,,,,Acute,NOEC,Apical-core,True
+MP,73,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LOEC,mg/L,5.0,,,,,Acute,LOEC,Apical-core,True
+MP,74,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LC50,mg/L,57.49,,,,,Acute,LC50,Apical-core,True
+MP,75,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LC10,mg/L,31.12,,,,,Acute,LC10,Apical-core,True
+MP,76,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),NOEC,mg/L,20.0,,,,,Acute,NOEC,Apical-core,True
+MP,77,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LOEC,mg/L,40.0,,,,,Acute,LOEC,Apical-core,True
+MP,78,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LC50,mg/L,197.62,,,,,Acute,LC50,Apical-core,True
+MP,79,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LC10,mg/L,41.04,,,,,Acute,LC10,Apical-core,True
+MP,80,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),NOEC,mg/L,10.0,,,,,Acute,NOEC,Apical-core,True
+MP,81,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LOEC,mg/L,20.0,,,,,Acute,LOEC,Apical-core,True
+MP,82,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,83,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,84,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,85,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,86,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,87,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,88,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,89,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,90,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,91,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,92,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,93,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,94,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,95,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,96,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,97,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,98,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,99,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,100,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,101,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,102,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,48 h,o,,Survival rate (생존율),LC50,mg/L,400.0,>,> 400,LC50,>,Acute,LC50,Apical-core,True
+MP,103,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,48 h,o,,Survival rate (생존율),LC50,mg/L,400.0,>,> 400,LC50,>,Acute,LC50,Apical-core,True
+MP,104,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),LC50,mg/L,400.0,>,> 400,LC50,>,Acute,LC50,Apical-core,True
+MP,105,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),LC50,mg/L,400.0,>,> 400,LC50,>,Acute,LC50,Apical-core,True
+MP,106,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,48 h,o,,Survival rate (생존율),LC10,mg/L,400.0,>,> 400,LC10,>,Acute,LC10,Apical-core,True
+MP,107,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,48 h,o,,Survival rate (생존율),LC10,mg/L,400.0,>,> 400,LC10,>,Acute,LC10,Apical-core,True
+MP,108,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),LC10,mg/L,400.0,>,> 400,LC10,>,Acute,LC10,Apical-core,True
+MP,109,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),LC10,mg/L,400.0,>,> 400,LC10,>,Acute,LC10,Apical-core,True
+MP,110,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,111,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,112,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,113,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,114,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,48 h,o,,Survival rate (생존율),LOEC,mg/L,400.0,>,> 400,LOEC,>,Acute,LOEC,Apical-core,True
+MP,115,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,48 h,o,,Survival rate (생존율),LOEC,mg/L,400.0,>,> 400,LOEC,>,Acute,LOEC,Apical-core,True
+MP,116,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),LOEC,mg/L,400.0,>,> 400,LOEC,>,Acute,LOEC,Apical-core,True
+MP,117,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),LOEC,mg/L,400.0,>,> 400,LOEC,>,Acute,LOEC,Apical-core,True
+MP,118,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,15,48 h,o,,Survival rate (생존율),LC50,mg/L,400.0,>,> 400,LC50,>,Acute,LC50,Apical-core,True
+MP,119,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,32–45,48 h,o,,Survival rate (생존율),LC50,mg/L,400.0,>,> 400,LC50,>,Acute,LC50,Apical-core,True
+MP,120,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),LC50,mg/L,400.0,>,> 400,LC50,>,Acute,LC50,Apical-core,True
+MP,121,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),LC50,mg/L,400.0,>,> 400,LC50,>,Acute,LC50,Apical-core,True
+MP,122,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,15,48 h,o,,Survival rate (생존율),LC10,mg/L,400.0,>,> 400,LC10,>,Acute,LC10,Apical-core,True
+MP,123,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,32–45,48 h,o,,Survival rate (생존율),LC10,mg/L,400.0,>,> 400,LC10,>,Acute,LC10,Apical-core,True
+MP,124,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),LC10,mg/L,400.0,>,> 400,LC10,>,Acute,LC10,Apical-core,True
+MP,125,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),LC10,mg/L,400.0,>,> 400,LC10,>,Acute,LC10,Apical-core,True
+MP,126,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,15,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,127,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,32–45,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,128,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,129,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),NOEC,mg/L,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,130,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,15,48 h,o,,Survival rate (생존율),LOEC,mg/L,400.0,>,> 400,LOEC,>,Acute,LOEC,Apical-core,True
+MP,131,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,32–45,48 h,o,,Survival rate (생존율),LOEC,mg/L,400.0,>,> 400,LOEC,>,Acute,LOEC,Apical-core,True
+MP,132,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),LOEC,mg/L,400.0,>,> 400,LOEC,>,Acute,LOEC,Apical-core,True
+MP,133,윤충류,Brachionus koreanus,Adult,Seawater,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),LOEC,mg/L,400.0,>,> 400,LOEC,>,Acute,LOEC,Apical-core,True
+MP,134,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LC50,mg/L,25.55,,,,,Acute,LC50,Apical-core,True
+MP,135,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LC10,mg/L,6.17,,,,,Acute,LC10,Apical-core,True
+MP,136,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),NOEC,mg/L,2.5,,,,,Acute,NOEC,Apical-core,True
+MP,137,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LOEC,mg/L,5.0,,,,,Acute,LOEC,Apical-core,True
+MP,138,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LC50,mg/L,59.18,,,,,Acute,LC50,Apical-core,True
+MP,139,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LC10,mg/L,31.0,,,,,Acute,LC10,Apical-core,True
+MP,140,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),NOEC,mg/L,20.0,,,,,Acute,NOEC,Apical-core,True
+MP,141,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.5,48 h,o,,Survival rate (생존율),LOEC,mg/L,40.0,,,,,Acute,LOEC,Apical-core,True
+MP,142,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LC50,mg/L,335.81,,,,,Acute,LC50,Apical-core,True
+MP,143,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LC10,mg/L,47.67,,,,,Acute,LC10,Apical-core,True
+MP,144,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),NOEC,mg/L,10.0,,,,,Acute,NOEC,Apical-core,True
+MP,145,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LOEC,mg/L,20.0,,,,,Acute,LOEC,Apical-core,True
+MP,146,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,147,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,148,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,149,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,5,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,150,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,151,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.7-4.9,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,152,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.7-4.9,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,153,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.7-4.9,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,154,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,0.7-4.9,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,155,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.7-4.9,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,156,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.7-4.9,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,157,윤충류,Brachionus koreanus,Adult,Seawater,PP,Fragment,0.7-4.9,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,158,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,159,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,160,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,161,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,162,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LC50,mg/L,80.0,>,> 80,LC50,>,Acute,LC50,Apical-core,True
+MP,163,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LC10,mg/L,80.0,>,> 80,LC10,>,Acute,LC10,Apical-core,True
+MP,164,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),NOEC,mg/L,80.0,,,,,Acute,NOEC,Apical-core,True
+MP,165,윤충류,Brachionus koreanus,Adult,Seawater,PE,Bead,3–16,48 h,o,,Survival rate (생존율),LOEC,mg/L,80.0,>,> 80,LOEC,>,Acute,LOEC,Apical-core,True
+MP,166,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,167,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,168,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,169,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,170,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,171,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,172,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,173,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,174,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,175,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,176,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,177,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,178,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,179,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,180,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,181,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,182,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,183,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,184,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,185,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,186,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,187,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,188,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,189,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,190,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,191,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,192,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,193,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,194,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,195,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,196,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,197,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,198,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,199,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,200,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,201,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,202,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,203,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,204,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,205,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,206,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,207,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,208,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,209,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,210,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,211,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,212,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,213,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,214,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,215,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,216,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,217,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,218,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,219,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,220,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,221,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,222,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,223,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,224,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,225,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First egg production (첫 알 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,226,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,227,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,228,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,229,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,230,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,231,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,232,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,233,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,234,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,235,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,236,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,237,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,238,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,239,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,240,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,241,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,242,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,243,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,244,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,245,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,246,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,247,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,248,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,249,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,250,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,251,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,252,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,253,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,254,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,255,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,256,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,257,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,258,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,259,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,260,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,261,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,262,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,263,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,264,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,265,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,266,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,267,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,268,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,269,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,270,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,271,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,272,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,273,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,274,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,275,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,276,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,277,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,278,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,279,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,280,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,281,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,282,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),EC50,mg/L,20.0,>,>20,EC50,>,Chronic,EC50,Apical-core,True
+MP,283,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),EC10,mg/L,20.0,>,>20,EC10,>,Chronic,EC10,Apical-core,True
+MP,284,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,285,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,First reproduction (첫 자손 생산),LOEC,mg/L,20.0,>,>20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,286,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,27.88,,,,,Chronic,EC50,Apical-core,True
+MP,287,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,10.09,,,,,Chronic,EC10,Apical-core,True
+MP,288,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,10.0,,,,,Chronic,NOEC,Apical-core,True
+MP,289,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,,,,,Chronic,LOEC,Apical-core,True
+MP,290,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,291,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,292,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,293,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,294,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,295,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,296,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,297,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,298,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,299,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,300,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,301,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,302,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,303,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,304,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,305,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,306,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,307,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,308,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,309,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,310,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,311,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,312,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,313,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,314,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,12.73,,,,,Chronic,EC50,Apical-core,True
+MP,315,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,6.48,,,,,Chronic,EC10,Apical-core,True
+MP,316,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,5.0,,,,,Chronic,NOEC,Apical-core,True
+MP,317,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,10.0,,,,,Chronic,LOEC,Apical-core,True
+MP,318,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,319,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,320,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,321,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,322,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,323,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,324,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,325,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,326,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,327,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,328,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,329,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,330,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,8.62,,,,,Chronic,EC50,Apical-core,True
+MP,331,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,5.52,,,,,Chronic,EC10,Apical-core,True
+MP,332,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,5.0,,,,,Chronic,NOEC,Apical-core,True
+MP,333,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,0.5,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,10.0,,,,,Chronic,LOEC,Apical-core,True
+MP,334,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,335,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,336,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,337,윤충류,Brachionus koreanus,Neonate,Seawater,PP,Fragment,5,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,338,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,339,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,340,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,341,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,0.7–4.9,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,342,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),EC50,mg/L,20.0,>,> 20,EC50,>,Chronic,EC50,Apical-core,True
+MP,343,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),EC10,mg/L,20.0,>,> 20,EC10,>,Chronic,EC10,Apical-core,True
+MP,344,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),NOEC,mg/L,20.0,,,,,Chronic,NOEC,Apical-core,True
+MP,345,윤충류,Brachionus koreanus,Neonate,Seawater,PE,Bead,3–16,14 d,,o,Total offspring production (총 자손 생산),LOEC,mg/L,20.0,>,> 20,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,346,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,개체군 성장률,EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,347,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,개체군 성장률,EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,348,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,개체군 성장률,NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,349,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,15,14 d,,o,개체군 성장률,LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,350,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,개체군 성장률,EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,351,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,개체군 성장률,EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,352,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,개체군 성장률,NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,353,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,32–45,14 d,,o,개체군 성장률,LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,354,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,개체군 성장률,EC50,mg/L,200.0,>,> 200,EC50,>,Chronic,EC50,Apical-core,True
+MP,355,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,개체군 성장률,EC10,mg/L,200.0,>,> 200,EC10,>,Chronic,EC10,Apical-core,True
+MP,356,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,개체군 성장률,NOEC,mg/L,200.0,,,,,Chronic,NOEC,Apical-core,True
+MP,357,윤충류,Brachionus koreanus,Neonate,Seawater,PET,Fragment,45–75,14 d,,o,개체군 성장률,LOEC,mg/L,200.0,>,> 200,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,358,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fragment,20,20 min,o,,Fertilisation (수정),EC50,mg/L,29.23,,,,,Acute,EC50,Apical-core,True
+MP,359,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fragment,45–75,20 min,o,,Fertilisation (수정),EC50,mg/L,40.92,,,,,Acute,EC50,Apical-core,True
+MP,360,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fiber,200–400,20 min,o,,Fertilisation (수정),EC50,mg/L,132.9,,,,,Acute,EC50,Apical-core,True
+MP,361,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fragment,20,20 min,o,,Fertilisation (수정),LOEC,mg/L,15.97,,,,,Acute,LOEC,Apical-core,True
+MP,362,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fragment,45–75,20 min,o,,Fertilisation (수정),LOEC,mg/L,31.31,,,,,Acute,LOEC,Apical-core,True
+MP,363,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fiber,200–400,20 min,o,,Fertilisation (수정),LOEC,mg/L,62.88,,,,,Acute,LOEC,Apical-core,True
+MP,364,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fragment,20,20 min,o,,Fertilisation (수정),NOEC,mg/L,7.984,,,,,Acute,NOEC,Apical-core,True
+MP,365,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fragment,45–75,20 min,o,,Fertilisation (수정),NOEC,mg/L,15.66,,,,,Acute,NOEC,Apical-core,True
+MP,366,참전복,Haliotis discus hannai,Egg,Seawater,PET,Fiber,200–400,20 min,o,,Fertilisation (수정),NOEC,mg/L,31.44,,,,,Acute,NOEC,Apical-core,True
+MP,367,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fragment,20,24 h,,o,Development (발생),EC50,mg/L,15.32,,,,,Chronic,EC50,Apical-core,True
+MP,368,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fragment,45–75,24 h,,o,Development (발생),EC50,mg/L,6.682,,,,,Chronic,EC50,Apical-core,True
+MP,369,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fiber,200–400,24 h ,,o,Development (발생),EC50,mg/L,76.41,,,,,Chronic,EC50,Apical-core,True
+MP,370,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fragment,20,24 h,,o,Development (발생),LOEC,mg/L,3.99,,,,,Chronic,LOEC,Apical-core,True
+MP,371,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fragment,45–75,24 h,,o,Development (발생),LOEC,mg/L,0.979,,,,,Chronic,LOEC,Apical-core,True
+MP,372,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fiber,200–400,24 h,,o,Development (발생),LOEC,mg/L,31.44,,,,,Chronic,LOEC,Apical-core,True
+MP,373,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fragment,20,24 h,,o,Development (발생),NOEC,mg/L,1.996,,,,,Chronic,NOEC,Apical-core,True
+MP,374,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fragment,45–75,24 h,,o,Development (발생),NOEC,mg/L,0.489,,,,,Chronic,NOEC,Apical-core,True
+MP,375,참전복,Haliotis discus hannai,Embryo,Seawater,PET,Fiber,200–400,24 h,,o,Development (발생),NOEC,mg/L,15.72,,,,,Chronic,NOEC,Apical-core,True
+MP,376,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,20,14 d,o,,Survival (생존),LC50,mg/L,0.651,,,,,Acute,LC50,Apical-core,True
+MP,377,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,45–75,14 d,o,,Survival (생존),LC50,mg/L,0.437,,,,,Acute,LC50,Apical-core,True
+MP,378,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,> 150,14 d,o,,Survival (생존),LC50,mg/L,0.575,,,,,Acute,LC50,Apical-core,True
+MP,379,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,200–400,14 d,o,,Survival (생존),LC50,mg/L,0.307,,,,,Acute,LC50,Apical-core,True
+MP,380,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,3000,14 d,o,,Survival (생존),LC50,mg/L,0.315,,,,,Acute,LC50,Apical-core,True
+MP,381,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,20,14 d,o,,Survival (생존),LOEC,mg/L,0.17,,,,,Acute,LOEC,Apical-core,True
+MP,382,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,45–75,14 d,o,,Survival (생존),LOEC,mg/L,0.17,,,,,Acute,LOEC,Apical-core,True
+MP,383,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,> 150,14 d,o,,Survival (생존),LOEC,mg/L,0.511,,,,,Acute,LOEC,Apical-core,True
+MP,384,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,200–400,14 d,o,,Survival (생존),LOEC,mg/L,0.17,,,,,Acute,LOEC,Apical-core,True
+MP,385,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,3000,14 d,o,,Survival (생존),LOEC,mg/L,0.17,,,,,Acute,LOEC,Apical-core,True
+MP,386,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,20,14 d,o,,Survival (생존),NOEC,mg/L,0.057,,,,,Acute,NOEC,Apical-core,True
+MP,387,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,45–75,14 d,o,,Survival (생존),NOEC,mg/L,0.057,,,,,Acute,NOEC,Apical-core,True
+MP,388,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,> 150,14 d,o,,Survival (생존),NOEC,mg/L,0.17,,,,,Acute,NOEC,Apical-core,True
+MP,389,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,200–400,14 d,o,,Survival (생존),NOEC,mg/L,0.057,,,,,Acute,NOEC,Apical-core,True
+MP,390,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,3000,14 d,o,,Survival (생존),NOEC,mg/L,0.057,,,,,Acute,NOEC,Apical-core,True
+MP,391,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,20,14 d,,o,Growth (성장),EC50,mg/L,5.757,,,,,Chronic,EC50,Apical-core,True
+MP,392,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,45–75,14 d,,o,Growth (성장),EC50,mg/L,1.212,,,,,Chronic,EC50,Apical-core,True
+MP,393,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,> 150,14 d,,o,Growth (성장),EC50,mg/L,1.755,,,,,Chronic,EC50,Apical-core,True
+MP,394,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,200–400,14 d,,o,Growth (성장),EC50,mg/L,2.328,,,,,Chronic,EC50,Apical-core,True
+MP,395,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,3000,14 d,,o,Growth (성장),EC50,mg/L,1.578,,,,,Chronic,EC50,Apical-core,True
+MP,396,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,20,14 d,,o,Growth (성장),LOEC,mg/L,4.586,,,,,Chronic,LOEC,Apical-core,True
+MP,397,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,45–75,14 d,,o,Growth (성장),LOEC,mg/L,0.17,,,,,Chronic,LOEC,Apical-core,True
+MP,398,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,> 150,14 d,,o,Growth (성장),LOEC,mg/L,1.532,,,,,Chronic,LOEC,Apical-core,True
+MP,399,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,200–400,14 d,,o,Growth (성장),LOEC,mg/L,0.511,,,,,Chronic,LOEC,Apical-core,True
+MP,400,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,3000,14 d,,o,Growth (성장),LOEC,mg/L,0.51,,,,,Chronic,LOEC,Apical-core,True
+MP,401,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,20,14 d,,o,Growth (성장),NOEC,mg/L,1.529,,,,,Chronic,NOEC,Apical-core,True
+MP,402,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,45–75,14 d,,o,Growth (성장),NOEC,mg/L,0.057,,,,,Chronic,NOEC,Apical-core,True
+MP,403,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fragment,> 150,14 d,,o,Growth (성장),NOEC,mg/L,0.511,,,,,Chronic,NOEC,Apical-core,True
+MP,404,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,200–400,14 d,,o,Growth (성장),NOEC,mg/L,0.17,,,,,Chronic,NOEC,Apical-core,True
+MP,405,참전복,Haliotis discus hannai,Larvae,Seawater,PET,Fiber,3000,14 d,,o,Growth (성장),NOEC,mg/L,0.17,,,,,Chronic,NOEC,Apical-core,True
+MP,406,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,20,2 d,o,,Survival (생존),LC50,mg/L,765.2,,,,,Acute,LC50,Apical-core,True
+MP,407,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,45–75,2 d,o,,Survival (생존),LC50,mg/L,881.5,,,,,Acute,LC50,Apical-core,True
+MP,408,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fiber,200–400,2 d,o,,Survival (생존),LC50,mg/L,711.6,,,,,Acute,LC50,Apical-core,True
+MP,409,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,20,2 d,o,,Survival (생존),LOEC,mg/L,31.94,,,,,Acute,LOEC,Apical-core,True
+MP,410,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,45–75,2 d,o,,Survival (생존),LOEC,mg/L,31.31,,,,,Acute,LOEC,Apical-core,True
+MP,411,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fiber,200–400,2 d,o,,Survival (생존),LOEC,mg/L,15.72,,,,,Acute,LOEC,Apical-core,True
+MP,412,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,20,2 d,o,,Survival (생존),NOEC,mg/L,15.97,,,,,Acute,NOEC,Apical-core,True
+MP,413,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,45–75,2 d,o,,Survival (생존),NOEC,mg/L,15.66,,,,,Acute,NOEC,Apical-core,True
+MP,414,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fiber,200–400,2 d,o,,Survival (생존),NOEC,mg/L,15.72,<,< 15.72,NOEC,<,Acute,NOEC,Apical-core,True
+MP,415,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,20,2 d,,o,Development (발생),EC50,mg/L,1.751,,,,,Chronic,EC50,Apical-core,True
+MP,416,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,45–75,2 d,,o,Development (발생),EC50,mg/L,1.192,,,,,Chronic,EC50,Apical-core,True
+MP,417,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,> 150,2 d,,o,Development (발생),EC50,mg/L,51.2,,,,,Chronic,EC50,Apical-core,True
+MP,418,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fiber,200–400,2 d,,o,Development (발생),EC50,mg/L,1.317,,,,,Chronic,EC50,Apical-core,True
+MP,419,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,FIber,3000,2 d,,o,Development (발생),EC50,mg/L,0.675,,,,,Chronic,EC50,Apical-core,True
+MP,420,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,20,2 d,,o,Development (발생),LOEC,mg/L,0.038,,,,,Chronic,LOEC,Apical-core,True
+MP,421,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,45–75,2 d,,o,Development (발생),LOEC,mg/L,0.31,,,,,Chronic,LOEC,Apical-core,True
+MP,422,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,> 150,2 d,,o,Development (발생),LOEC,mg/L,5.039,,,,,Chronic,LOEC,Apical-core,True
+MP,423,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fiber,200–400,2 d,,o,Development (발생),LOEC,mg/L,0.04,,,,,Chronic,LOEC,Apical-core,True
+MP,424,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fiber,3000,2 d,,o,Development (발생),LOEC,mg/L,0.079,,,,,Chronic,LOEC,Apical-core,True
+MP,425,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,20,2 d,,o,Development (발생),NOEC,mg/L,0.019,,,,,Chronic,NOEC,Apical-core,True
+MP,426,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,45–75,2 d,,o,Development (발생),NOEC,mg/L,0.155,,,,,Chronic,NOEC,Apical-core,True
+MP,427,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fragment,> 150,2 d,,o,Development (발생),NOEC,mg/L,2.52,,,,,Chronic,NOEC,Apical-core,True
+MP,428,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fiber,200–400,2 d,,o,Development (발생),NOEC,mg/L,0.02,,,,,Chronic,NOEC,Apical-core,True
+MP,429,지중해담치,Mytilus galloprovincialis,Embryo,Seawater,PET,Fiber,3000,2 d,,o,Development (발생),NOEC,mg/L,0.04,,,,,Chronic,NOEC,Apical-core,True
+MP,430,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,20,21 d,,o,Growth (성장),EC50,mg/L,628.7,,,,,Chronic,EC50,Apical-core,True
+MP,431,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,45–75,21 d,,o,Growth (성장),EC50,mg/L,924.5,,,,,Chronic,EC50,Apical-core,True
+MP,432,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fiber,200–400,21 d,,o,Growth (성장),EC50,mg/L,670.9,,,,,Chronic,EC50,Apical-core,True
+MP,433,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,20,21 d,,o,Growth (성장),LOEC,mg/L,503.0,,,,,Chronic,LOEC,Apical-core,True
+MP,434,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,45–75,21 d,,o,Growth (성장),LOEC,mg/L,1002.0,,,,,Chronic,LOEC,Apical-core,True
+MP,435,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fiber,200–400,21 d,,o,Growth (성장),LOEC,mg/L,511.0,,,,,Chronic,LOEC,Apical-core,True
+MP,436,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,20,21 d,,o,Growth (성장),NOEC,mg/L,251.5,,,,,Chronic,NOEC,Apical-core,True
+MP,437,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fragment,45–75,21 d,,o,Growth (성장),NOEC,mg/L,501.0,,,,,Chronic,NOEC,Apical-core,True
+MP,438,지중해담치,Mytilus galloprovincialis,Larvae,Seawater,PET,Fiber,200–400,21 d,,o,Growth (성장),NOEC,mg/L,255.5,,,,,Chronic,NOEC,Apical-core,True
+MP,439,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PE,Bead,27–32,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,439,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PE,Bead,27–32,96 h,o,,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Acute,NOEC,Apical-core,True
+MP,440,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,20,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,440,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,20,96 h,o,,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Acute,NOEC,Apical-core,True
+MP,441,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,441,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Acute,NOEC,Apical-core,True
+MP,442,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,442,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Acute,NOEC,Apical-core,True
+MP,443,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,443,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Survival rate (생존율),LC10,mg/L,10.0,,,,,Acute,LC10,Apical-core,True
+MP,443,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Survival rate (생존율),NOEC,mg/L,10.0,,,,,Acute,NOEC,Apical-core,True
+MP,443,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Survival rate (생존율),LOEC,mg/L,100.0,,,,,Acute,LOEC,Apical-core,True
+MP,443,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Survival rate (생존율),MATC,mg/L,31.62,,,,,Acute,MATC,Apical-core,True
+MP,444,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,444,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),LC10,mg/L,100.0,,,,,Acute,LC10,Apical-core,True
+MP,444,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Acute,NOEC,Apical-core,True
+MP,445,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PE,Bead,27–32,21 d,,o,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Chronic,LC50,Apical-core,True
+MP,445,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PE,Bead,27–32,21 d,,o,Survival rate (생존율),NOEC,mg/L,10.0,,,,,Chronic,NOEC,Apical-core,True
+MP,445,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PE,Bead,27–32,21 d,,o,Survival rate (생존율),LOEC,mg/L,100.0,,,,,Chronic,LOEC,Apical-core,True
+MP,445,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PE,Bead,27–32,21 d,,o,Survival rate (생존율),MATC,mg/L,31.62,,,,,Chronic,MATC,Apical-core,True
+MP,446,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,20,21 d,,o,Survival rate (생존율),LC50,mg/L,7.55,,,,,Chronic,LC50,Apical-core,True
+MP,446,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,20,21 d,,o,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Chronic,NOEC,Apical-core,True
+MP,447,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,45–75,21 d,,o,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Chronic,LC50,Apical-core,True
+MP,447,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,45–75,21 d,,o,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Chronic,NOEC,Apical-core,True
+MP,448,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,> 150,21 d,,o,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Chronic,LC50,Apical-core,True
+MP,448,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fragment,> 150,21 d,,o,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Chronic,NOEC,Apical-core,True
+MP,449,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,200–400,21 d,,o,Survival rate (생존율),LC50,mg/L,2.93,,,,,Chronic,LC50,Apical-core,True
+MP,449,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,200–400,21 d,,o,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Chronic,LOEC,Apical-core,True
+MP,450,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,3000,21 d,,o,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Chronic,LC50,Apical-core,True
+MP,450,지중해담치,Mytilus galloprovincialis,Adult,Seawater,PET,Fiber,3000,21 d,,o,Survival rate (생존율),NOEC,mg/L,100.0,,,,,Chronic,NOEC,Apical-core,True
+MP,451,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,Survival rate (생존율),LC50,mg/L,7.92,,,,,Acute,LC50,Apical-core,True
+MP,451,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,Survival rate (생존율),LC10,mg/L,0.3,,,,,Acute,LC10,Apical-core,True
+MP,451,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Acute,LOEC,Apical-core,True
+MP,452,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,452,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),LC10,mg/L,0.26,,,,,Acute,LC10,Apical-core,True
+MP,452,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Acute,LOEC,Apical-core,True
+MP,453,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),LC50,mg/L,24.0,,,,,Acute,LC50,Apical-core,True
+MP,453,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),LC10,mg/L,0.21,,,,,Acute,LC10,Apical-core,True
+MP,453,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Acute,LOEC,Apical-core,True
+MP,454,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,454,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Survival rate (생존율),LC10,mg/L,0.3,,,,,Acute,LC10,Apical-core,True
+MP,454,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Acute,LOEC,Apical-core,True
+MP,455,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Acute,LC50,Apical-core,True
+MP,456,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,EC50,mg/L,88.2,,,,,Acute,EC50,Biomarker,False
+MP,456,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,EC10,mg/L,55.43,,,,,Acute,EC10,Biomarker,False
+MP,456,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,NOEC,mg/L,1.0,,,,,Acute,NOEC,Biomarker,False
+MP,456,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,LOEC,mg/L,10.0,,,,,Acute,LOEC,Biomarker,False
+MP,456,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,MATC,mg/L,3.16,,,,,Acute,MATC,Biomarker,False
+MP,457,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,EC50,mg/L,41.71,,,,,Acute,EC50,Biomarker,False
+MP,457,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,EC10,mg/L,26.36,,,,,Acute,EC10,Biomarker,False
+MP,457,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,NOEC,mg/L,1.0,,,,,Acute,NOEC,Biomarker,False
+MP,457,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,LOEC,mg/L,10.0,,,,,Acute,LOEC,Biomarker,False
+MP,457,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,MATC,mg/L,3.16,,,,,Acute,MATC,Biomarker,False
+MP,458,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,EC50,mg/L,0.93,,,,,Acute,EC50,Biomarker,False
+MP,458,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,EC10,mg/L,0.19,,,,,Acute,EC10,Biomarker,False
+MP,458,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,LOEC,mg/L,1.0,,,,,Acute,LOEC,Biomarker,False
+MP,459,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,SOD,EC50,mg/L,5.69,,,,,Acute,EC50,Biomarker,False
+MP,459,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,SOD,EC10,mg/L,1.6,,,,,Acute,EC10,Biomarker,False
+MP,459,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,SOD,NOEC,mg/L,1.0,,,,,Acute,NOEC,Biomarker,False
+MP,459,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,SOD,LOEC,mg/L,10.0,,,,,Acute,LOEC,Biomarker,False
+MP,459,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,SOD,MATC,mg/L,3.16,,,,,Acute,MATC,Biomarker,False
+MP,460,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,460,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,EC10,mg/L,100.0,>,> 100,EC10,>,Acute,EC10,Biomarker,False
+MP,460,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,NOEC,mg/L,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,461,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,461,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,CAT,EC10,mg/L,80.1,,,,,Acute,EC10,Biomarker,False
+MP,461,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,CAT,NOEC,mg/L,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,462,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,462,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,CAT,EC10,mg/L,82.27,,,,,Acute,EC10,Biomarker,False
+MP,462,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,CAT,LOEC,mg/L,1.0,,,,,Acute,LOEC,Biomarker,False
+MP,463,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,463,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,CAT,EC10,mg/L,0.34,,,,,Acute,EC10,Biomarker,False
+MP,463,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,CAT,LOEC,mg/L,1.0,,,,,Acute,LOEC,Biomarker,False
+MP,464,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,464,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,EC10,mg/L,92.34,,,,,Acute,EC10,Biomarker,False
+MP,464,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,NOEC,mg/L,1.0,,,,,Acute,NOEC,Biomarker,False
+MP,464,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,LOEC,mg/L,10.0,,,,,Acute,LOEC,Biomarker,False
+MP,464,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,MATC,mg/L,3.16,,,,,Acute,MATC,Biomarker,False
+MP,465,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,465,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,CAT,EC10,mg/L,0.46,,,,,Acute,EC10,Biomarker,False
+MP,465,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,CAT,LOEC,mg/L,1.0,,,,,Acute,LOEC,Biomarker,False
+MP,466,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,EC50,mg/L,18.27,,,,,Acute,EC50,Biomarker,False
+MP,466,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,EC10,mg/L,0.29,,,,,Acute,EC10,Biomarker,False
+MP,466,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,NOEC,mg/L,1.0,,,,,Acute,NOEC,Biomarker,False
+MP,466,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,LOEC,mg/L,10.0,,,,,Acute,LOEC,Biomarker,False
+MP,466,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,MATC,mg/L,3.16,,,,,Acute,MATC,Biomarker,False
+MP,467,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,EC50,mg/L,28.12,,,,,Acute,EC50,Biomarker,False
+MP,467,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,EC10,mg/L,3.41,,,,,Acute,EC10,Biomarker,False
+MP,467,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,NOEC,mg/L,1.0,,,,,Acute,NOEC,Biomarker,False
+MP,467,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,LOEC,mg/L,10.0,,,,,Acute,LOEC,Biomarker,False
+MP,467,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,MATC,mg/L,3.16,,,,,Acute,MATC,Biomarker,False
+MP,468,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,EC50,mg/L,1.61,,,,,Acute,EC50,Biomarker,False
+MP,468,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,EC10,mg/L,0.41,,,,,Acute,EC10,Biomarker,False
+MP,468,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,NOEC,mg/L,1.0,,,,,Acute,NOEC,Biomarker,False
+MP,468,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,LOEC,mg/L,10.0,,,,,Acute,LOEC,Biomarker,False
+MP,468,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,MATC,mg/L,3.16,,,,,Acute,MATC,Biomarker,False
+MP,469,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,SOD,EC50,mg/L,0.23,,,,,Acute,EC50,Biomarker,False
+MP,469,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,SOD,EC10,mg/L,0.05,,,,,Acute,EC10,Biomarker,False
+MP,469,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,SOD,LOEC,mg/L,1.0,,,,,Acute,LOEC,Biomarker,False
+MP,470,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,EC50,mg/L,0.27,,,,,Acute,EC50,Biomarker,False
+MP,470,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,EC10,mg/L,0.05,,,,,Acute,EC10,Biomarker,False
+MP,470,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,LOEC,mg/L,1.0,,,,,Acute,LOEC,Biomarker,False
+MP,471,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,471,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,CAT,EC10,mg/L,100.0,>,> 100,EC10,>,Acute,EC10,Biomarker,False
+MP,471,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,96 h,o,,CAT,NOEC,mg/L,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,472,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,472,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,CAT,EC10,mg/L,100.0,>,> 100,EC10,>,Acute,EC10,Biomarker,False
+MP,472,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,96 h,o,,CAT,NOEC,mg/L,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,473,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,473,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,CAT,EC10,mg/L,57.02,,,,,Acute,EC10,Biomarker,False
+MP,473,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,96 h,o,,CAT,NOEC,mg/L,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,474,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,EC50,mg/L,9.61,,,,,Acute,EC50,Biomarker,False
+MP,474,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,EC10,mg/L,3.13,,,,,Acute,EC10,Biomarker,False
+MP,474,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,NOEC,mg/L,1.0,,,,,Acute,NOEC,Biomarker,False
+MP,474,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,96 h,o,,CAT,MATC,mg/L,3.16,,,,,Acute,MATC,Biomarker,False
+MP,475,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Acute,EC50,Biomarker,False
+MP,475,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,CAT,EC10,mg/L,100.0,>,> 100,EC10,>,Acute,EC10,Biomarker,False
+MP,475,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,96 h,o,,CAT,NOEC,mg/L,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,476,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,Survival rate (생존율),LC50,mg/L,6.54,,,,,Chronic,LC50,Apical-core,True
+MP,476,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,Survival rate (생존율),LC10,mg/L,0.27,,,,,Chronic,LC10,Apical-core,True
+MP,476,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Chronic,LOEC,Apical-core,True
+MP,477,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Chronic,LC50,Apical-core,True
+MP,477,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,Survival rate (생존율),LC10,mg/L,0.22,,,,,Chronic,LC10,Apical-core,True
+MP,477,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Chronic,LOEC,Apical-core,True
+MP,478,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,Survival rate (생존율),LC50,mg/L,40.0,,,,,Chronic,LC50,Apical-core,True
+MP,478,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,Survival rate (생존율),LC10,mg/L,0.24,,,,,Chronic,LC10,Apical-core,True
+MP,478,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Chronic,LOEC,Apical-core,True
+MP,479,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,Survival rate (생존율),LC50,mg/L,8.5,,,,,Chronic,LC50,Apical-core,True
+MP,479,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,Survival rate (생존율),LC10,mg/L,0.3,,,,,Chronic,LC10,Apical-core,True
+MP,479,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,Survival rate (생존율),LOEC,mg/L,1.0,,,,,Chronic,LOEC,Apical-core,True
+MP,480,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,Survival rate (생존율),LC50,mg/L,100.0,>,> 100,LC50,>,Chronic,LC50,Apical-core,True
+MP,481,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,SOD,EC50,mg/L,0.38,,,,,Chronic,EC50,Biomarker,False
+MP,481,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,SOD,EC10,mg/L,0.08,,,,,Chronic,EC10,Biomarker,False
+MP,481,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,SOD,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,482,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,SOD,EC50,mg/L,0.49,,,,,Chronic,EC50,Biomarker,False
+MP,482,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,SOD,EC10,mg/L,0.1,,,,,Chronic,EC10,Biomarker,False
+MP,482,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,SOD,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,483,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,SOD,EC50,mg/L,0.88,,,,,Chronic,EC50,Biomarker,False
+MP,483,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,SOD,EC10,mg/L,0.18,,,,,Chronic,EC10,Biomarker,False
+MP,483,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,SOD,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,484,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,SOD,EC50,mg/L,0.95,,,,,Chronic,EC50,Biomarker,False
+MP,484,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,SOD,EC10,mg/L,0.19,,,,,Chronic,EC10,Biomarker,False
+MP,484,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,SOD,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,485,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,SOD,EC50,mg/L,100.0,>,> 100,EC50,>,Chronic,EC50,Biomarker,False
+MP,485,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,SOD,EC10,mg/L,100.0,>,> 100,EC10,>,Chronic,EC10,Biomarker,False
+MP,485,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,SOD,NOEC,mg/L,100.0,,,,,Chronic,NOEC,Biomarker,False
+MP,486,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Chronic,EC50,Biomarker,False
+MP,486,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,CAT,EC10,mg/L,9.04,,,,,Chronic,EC10,Biomarker,False
+MP,486,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,CAT,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,487,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,CAT,EC50,mg/L,45.4,,,,,Chronic,EC50,Biomarker,False
+MP,487,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,CAT,EC10,mg/L,0.38,,,,,Chronic,EC10,Biomarker,False
+MP,487,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,CAT,NOEC,mg/L,10.0,,,,,Chronic,NOEC,Biomarker,False
+MP,487,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,CAT,LOEC,mg/L,100.0,,,,,Chronic,LOEC,Biomarker,False
+MP,487,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,CAT,MATC,mg/L,31.62,,,,,Chronic,MATC,Biomarker,False
+MP,488,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,CAT,EC50,mg/L,4.19,,,,,Chronic,EC50,Biomarker,False
+MP,488,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,CAT,EC10,mg/L,0.25,,,,,Chronic,EC10,Biomarker,False
+MP,488,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,CAT,NOEC,mg/L,10.0,,,,,Chronic,NOEC,Biomarker,False
+MP,488,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,CAT,LOEC,mg/L,100.0,,,,,Chronic,LOEC,Biomarker,False
+MP,488,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,CAT,MATC,mg/L,31.62,,,,,Chronic,MATC,Biomarker,False
+MP,489,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Chronic,EC50,Biomarker,False
+MP,489,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,CAT,EC10,mg/L,100.0,>,> 100,EC10,>,Chronic,EC10,Biomarker,False
+MP,489,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,CAT,NOEC,mg/L,100.0,,,,,Chronic,NOEC,Biomarker,False
+MP,490,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,CAT,EC50,mg/L,100.0,>,> 100,EC50,>,Chronic,EC50,Biomarker,False
+MP,490,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,CAT,EC10,mg/L,0.39,,,,,Chronic,EC10,Biomarker,False
+MP,490,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,CAT,NOEC,mg/L,100.0,,,,,Chronic,NOEC,Biomarker,False
+MP,491,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,SOD,EC50,mg/L,50.76,,,,,Chronic,EC50,Biomarker,False
+MP,491,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,SOD,EC10,mg/L,4.26,,,,,Chronic,EC10,Biomarker,False
+MP,491,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,SOD,NOEC,mg/L,10.0,,,,,Chronic,NOEC,Biomarker,False
+MP,491,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,SOD,LOEC,mg/L,100.0,,,,,Chronic,LOEC,Biomarker,False
+MP,491,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,SOD,MATC,mg/L,31.62,,,,,Chronic,MATC,Biomarker,False
+MP,492,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,SOD,EC50,mg/L,0.96,,,,,Chronic,EC50,Biomarker,False
+MP,492,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,SOD,EC10,mg/L,0.19,,,,,Chronic,EC10,Biomarker,False
+MP,492,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,SOD,NOEC,mg/L,1.0,,,,,Chronic,NOEC,Biomarker,False
+MP,492,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,SOD,LOEC,mg/L,10.0,,,,,Chronic,LOEC,Biomarker,False
+MP,492,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,SOD,MATC,mg/L,3.16,,,,,Chronic,MATC,Biomarker,False
+MP,493,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,SOD,EC50,mg/L,0.41,,,,,Chronic,EC50,Biomarker,False
+MP,493,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,SOD,EC10,mg/L,0.08,,,,,Chronic,EC10,Biomarker,False
+MP,493,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,SOD,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,494,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,SOD,EC50,mg/L,100.0,>,> 100,EC50,>,Chronic,EC50,Biomarker,False
+MP,494,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,SOD,EC10,mg/L,0.6,,,,,Chronic,EC10,Biomarker,False
+MP,494,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,SOD,NOEC,mg/L,100.0,,,,,Chronic,NOEC,Biomarker,False
+MP,495,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,SOD,EC50,mg/L,100.0,>,> 100,EC50,>,Chronic,EC50,Biomarker,False
+MP,495,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,SOD,EC10,mg/L,62.55,,,,,Chronic,EC10,Biomarker,False
+MP,495,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,SOD,NOEC,mg/L,100.0,,,,,Chronic,NOEC,Biomarker,False
+MP,496,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,CAT,EC50,mg/L,2.51,,,,,Chronic,EC50,Biomarker,False
+MP,496,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,CAT,EC10,mg/L,0.22,,,,,Chronic,EC10,Biomarker,False
+MP,496,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,20,10 d,,o,CAT,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,497,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,CAT,EC50,mg/L,9.47,,,,,Chronic,EC50,Biomarker,False
+MP,497,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,CAT,EC10,mg/L,7.35,,,,,Chronic,EC10,Biomarker,False
+MP,497,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,45–75,10 d,,o,CAT,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,498,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,CAT,EC50,mg/L,62.01,,,,,Chronic,EC50,Biomarker,False
+MP,498,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,CAT,EC10,mg/L,0.51,,,,,Chronic,EC10,Biomarker,False
+MP,498,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fragment,> 150,10 d,,o,CAT,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,499,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,CAT,EC50,mg/L,7.97,,,,,Chronic,EC50,Biomarker,False
+MP,499,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,CAT,EC10,mg/L,5.09,,,,,Chronic,EC10,Biomarker,False
+MP,499,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,CAT,NOEC,mg/L,1.0,,,,,Chronic,NOEC,Biomarker,False
+MP,499,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,CAT,LOEC,mg/L,10.0,,,,,Chronic,LOEC,Biomarker,False
+MP,499,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,200–400,10 d,,o,CAT,MATC,mg/L,3.16,,,,,Chronic,MATC,Biomarker,False
+MP,500,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,CAT,EC50,mg/L,0.67,,,,,Chronic,EC50,Biomarker,False
+MP,500,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,CAT,EC10,mg/L,0.13,,,,,Chronic,EC10,Biomarker,False
+MP,500,칠게,Macrophthalmus japonicus,Adult,Seawater,PET,Fiber,3000,10 d,,o,CAT,LOEC,mg/L,1.0,,,,,Chronic,LOEC,Biomarker,False
+MP,501,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),EC50,mg/L,255.0,,,,,Acute,EC50,Apical-core,True
+MP,502,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),EC50,mg/L,1000.0,<,<1000,EC50,<,Acute,EC50,Apical-core,True
+MP,503,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),EC50,mg/L,1000.0,<,<1000,EC50,<,Acute,EC50,Apical-core,True
+MP,504,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),EC50,mg/L,121.0,,,,,Acute,EC50,Apical-core,True
+MP,505,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),EC50,mg/L,845.0,,,,,Acute,EC50,Apical-core,True
+MP,506,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),EC10,mg/L,36.6,,,,,Acute,EC10,Apical-core,True
+MP,507,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),EC10,mg/L,306.0,,,,,Acute,EC10,Apical-core,True
+MP,508,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),EC10,mg/L,354.0,,,,,Acute,EC10,Apical-core,True
+MP,509,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),EC10,mg/L,31.6,,,,,Acute,EC10,Apical-core,True
+MP,510,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),EC10,mg/L,284.0,,,,,Acute,EC10,Apical-core,True
+MP,511,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,31.25,<,< 31.25,NOEC,<,Acute,NOEC,Apical-core,True
+MP,512,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,31.25,<,< 31.25,NOEC,<,Acute,NOEC,Apical-core,True
+MP,513,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,62.5,,,,,Acute,NOEC,Apical-core,True
+MP,514,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,31.25,,,,,Acute,NOEC,Apical-core,True
+MP,515,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,250.0,<,< 250,NOEC,<,Acute,NOEC,Apical-core,True
+MP,516,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,31.25,,,,,Acute,LOEC,Apical-core,True
+MP,517,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,31.25,,,,,Acute,LOEC,Apical-core,True
+MP,518,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,125.0,,,,,Acute,LOEC,Apical-core,True
+MP,519,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,62.5,,,,,Acute,LOEC,Apical-core,True
+MP,520,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,250.0,,,,,Acute,LOEC,Apical-core,True
+MP,521,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),MATC,mg/L,31.25,<,<31.25,MATC,<,Acute,MATC,Apical-core,True
+MP,522,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),MATC,mg/L,31.25,<,<31.25,MATC,<,Acute,MATC,Apical-core,True
+MP,523,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),MATC,mg/L,88.4,,,,,Acute,MATC,Apical-core,True
+MP,524,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),MATC,mg/L,44.2,,,,,Acute,MATC,Apical-core,True
+MP,525,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),MATC,mg/L,250.0,<,<250,MATC,<,Acute,MATC,Apical-core,True
+MP,526,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),EC50,mg/L,277.0,,,,,Acute,EC50,Apical-core,True
+MP,527,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),EC10,mg/L,137.0,,,,,Acute,EC10,Apical-core,True
+MP,528,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,250.0,<,<250,NOEC,<,Acute,NOEC,Apical-core,True
+MP,529,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,250.0,,,,,Acute,LOEC,Apical-core,True
+MP,530,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,20,10 min,o,,Fertilization rate (수정률),MATC,mg/L,250.0,<,<250,MATC,<,Acute,MATC,Apical-core,True
+MP,531,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),EC50,mg/L,1000.0,>,>1000,EC50,>,Acute,EC50,Apical-core,True
+MP,532,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),EC10,mg/L,320.0,,,,,Acute,EC10,Apical-core,True
+MP,533,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,250.0,<,<250,NOEC,<,Acute,NOEC,Apical-core,True
+MP,534,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,250.0,,,,,Acute,LOEC,Apical-core,True
+MP,535,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,45–75,10 min,o,,Fertilization rate (수정률),MATC,mg/L,250.0,<,<250,MATC,<,Acute,MATC,Apical-core,True
+MP,536,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),EC50,mg/L,1000.0,>,>1000,EC50,>,Acute,EC50,Apical-core,True
+MP,537,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),EC10,mg/L,420.0,,,,,Acute,EC10,Apical-core,True
+MP,538,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,250.0,<,<250,NOEC,<,Acute,NOEC,Apical-core,True
+MP,539,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,250.0,,,,,Acute,LOEC,Apical-core,True
+MP,540,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fragment,> 150,10 min,o,,Fertilization rate (수정률),MATC,mg/L,250.0,<,<250,MATC,<,Acute,MATC,Apical-core,True
+MP,541,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),EC50,mg/L,178.0,,,,,Acute,EC50,Apical-core,True
+MP,542,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),EC10,mg/L,61.6,,,,,Acute,EC10,Apical-core,True
+MP,543,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,250.0,<,<250,NOEC,<,Acute,NOEC,Apical-core,True
+MP,544,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,250.0,,,,,Acute,LOEC,Apical-core,True
+MP,545,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,200–400,10 min,o,,Fertilization rate (수정률),MATC,mg/L,250.0,<,<250,MATC,<,Acute,MATC,Apical-core,True
+MP,546,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),EC50,mg/L,883.0,,,,,Acute,EC50,Apical-core,True
+MP,547,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),EC10,mg/L,253.0,,,,,Acute,EC10,Apical-core,True
+MP,548,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),NOEC,mg/L,250.0,<,<250,NOEC,<,Acute,NOEC,Apical-core,True
+MP,549,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),LOEC,mg/L,250.0,,,,,Acute,LOEC,Apical-core,True
+MP,550,둥근성게,Mesocentrotus nudus,"Sperm, Egg",Seawater,PET,Fiber,3000,10 min,o,,Fertilization rate (수정률),MATC,mg/L,250.0,<,<250,MATC,<,Acute,MATC,Apical-core,True
+MP,551,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,64 h ,,o,Developmental rate (발생률),EC50,mg/L,1000.0,<,< 1000,EC50,<,Chronic,EC50,Apical-core,True
+MP,552,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,64 h ,,o,Developmental rate (발생률),EC50,mg/L,1000.0,<,< 1000,EC50,<,Chronic,EC50,Apical-core,True
+MP,553,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,64 h ,,o,Developmental rate (발생률),EC50,mg/L,1000.0,<,< 1000,EC50,<,Chronic,EC50,Apical-core,True
+MP,554,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,64 h ,,o,Developmental rate (발생률),EC50,mg/L,330.0,,,,,Chronic,EC50,Apical-core,True
+MP,555,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,64 h ,,o,Developmental rate (발생률),EC50,mg/L,488.0,,,,,Chronic,EC50,Apical-core,True
+MP,556,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,64 h ,,o,Developmental rate (발생률),EC10,mg/L,633.0,,,,,Chronic,EC10,Apical-core,True
+MP,557,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,64 h ,,o,Developmental rate (발생률),EC10,mg/L,133.0,,,,,Chronic,EC10,Apical-core,True
+MP,558,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,64 h ,,o,Developmental rate (발생률),EC10,mg/L,224.0,,,,,Chronic,EC10,Apical-core,True
+MP,559,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,64 h ,,o,Developmental rate (발생률),EC10,mg/L,35.3,,,,,Chronic,EC10,Apical-core,True
+MP,560,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,64 h ,,o,Developmental rate (발생률),EC10,mg/L,42.6,,,,,Chronic,EC10,Apical-core,True
+MP,561,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,64 h ,,o,Developmental rate (발생률),NOEC,mg/L,62.5,,,,,Chronic,NOEC,Apical-core,True
+MP,562,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,64 h ,,o,Developmental rate (발생률),NOEC,mg/L,31.25,,,,,Chronic,NOEC,Apical-core,True
+MP,563,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,64 h ,,o,Developmental rate (발생률),NOEC,mg/L,31.25,,,,,Chronic,NOEC,Apical-core,True
+MP,564,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,64 h ,,o,Developmental rate (발생률),NOEC,mg/L,15.625,<,< 15.625,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,565,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,64 h ,,o,Developmental rate (발생률),NOEC,mg/L,15.625,<,< 15.625,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,566,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,64 h ,,o,Developmental rate (발생률),LOEC,mg/L,125.0,,,,,Chronic,LOEC,Apical-core,True
+MP,567,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,64 h ,,o,Developmental rate (발생률),LOEC,mg/L,62.5,,,,,Chronic,LOEC,Apical-core,True
+MP,568,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,64 h ,,o,Developmental rate (발생률),LOEC,mg/L,62.5,,,,,Chronic,LOEC,Apical-core,True
+MP,569,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,64 h ,,o,Developmental rate (발생률),LOEC,mg/L,15.625,,,,,Chronic,LOEC,Apical-core,True
+MP,570,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,64 h ,,o,Developmental rate (발생률),LOEC,mg/L,15.625,,,,,Chronic,LOEC,Apical-core,True
+MP,571,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,64 h ,,o,Developmental rate (발생률),MATC,mg/L,88.4,,,,,Chronic,MATC,Apical-core,True
+MP,572,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,64 h ,,o,Developmental rate (발생률),MATC,mg/L,44.2,,,,,Chronic,MATC,Apical-core,True
+MP,573,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,64 h ,,o,Developmental rate (발생률),MATC,mg/L,44.2,,,,,Chronic,MATC,Apical-core,True
+MP,574,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,64 h ,,o,Developmental rate (발생률),MATC,mg/L,15.625,<,<15.625,MATC,<,Chronic,MATC,Apical-core,True
+MP,575,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,64 h ,,o,Developmental rate (발생률),MATC,mg/L,15.625,<,<15.625,MATC,<,Chronic,MATC,Apical-core,True
+MP,576,둥근성게,Mesocentrotus nudus,Pluteus Larvae,Seawater,PET,Fragment,20,96 h,,o,Survival rate (생존률),EC50,mg/L,555.0,,,,,Chronic,EC50,Apical-core,True
+MP,577,둥근성게,Mesocentrotus nudus,Pluteus Larvae,Seawater,PET,Fragment,45–75,96 h,,o,Survival rate (생존률),EC50,mg/L,725.0,,,,,Chronic,EC50,Apical-core,True
+MP,578,둥근성게,Mesocentrotus nudus,Pluteus Larvae,Seawater,PET,Fragment,> 150,96 h,,o,Survival rate (생존률),EC50,mg/L,1000.0,>,>1000,EC50,>,Chronic,EC50,Apical-core,True
+MP,579,둥근성게,Mesocentrotus nudus,Pluteus Larvae,Seawater,PET,Fiber,200–400,96 h,,o,Survival rate (생존률),EC50,mg/L,621.0,,,,,Chronic,EC50,Apical-core,True
+MP,580,둥근성게,Mesocentrotus nudus,Pluteus Larvae,Seawater,PET,Fiber,3000,96 h,,o,Survival rate (생존률),EC50,mg/L,1000.0,>,>1000,EC50,>,Chronic,EC50,Apical-core,True
+MP,581,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,96 h,,o,Survival rate (생존률),EC10,mg/L,53.5,,,,,Chronic,EC10,Apical-core,True
+MP,582,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,96 h,,o,Survival rate (생존률),EC10,mg/L,53.6,,,,,Chronic,EC10,Apical-core,True
+MP,583,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,96 h,,o,Survival rate (생존률),EC10,mg/L,71.7,,,,,Chronic,EC10,Apical-core,True
+MP,584,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,96 h,,o,Survival rate (생존률),EC10,mg/L,88.6,,,,,Chronic,EC10,Apical-core,True
+MP,585,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,96 h,,o,Survival rate (생존률),EC10,mg/L,28.1,,,,,Chronic,EC10,Apical-core,True
+MP,586,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,96 h,,o,Survival rate (생존률),NOEC,mg/L,250.0,<,< 250,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,587,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,96 h,,o,Survival rate (생존률),NOEC,mg/L,250.0,<,< 250,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,588,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,96 h,,o,Survival rate (생존률),NOEC,mg/L,250.0,<,< 250,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,589,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,96 h,,o,Survival rate (생존률),NOEC,mg/L,250.0,<,< 250,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,590,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,96 h,,o,Survival rate (생존률),NOEC,mg/L,250.0,<,< 250,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,591,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,96 h,,o,Survival rate (생존률),LOEC,mg/L,250.0,,,,,Chronic,LOEC,Apical-core,True
+MP,592,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,96 h,,o,Survival rate (생존률),LOEC,mg/L,250.0,,,,,Chronic,LOEC,Apical-core,True
+MP,593,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,96 h,,o,Survival rate (생존률),LOEC,mg/L,250.0,,,,,Chronic,LOEC,Apical-core,True
+MP,594,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,96 h,,o,Survival rate (생존률),LOEC,mg/L,250.0,,,,,Chronic,LOEC,Apical-core,True
+MP,595,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,96 h,,o,Survival rate (생존률),LOEC,mg/L,250.0,,,,,Chronic,LOEC,Apical-core,True
+MP,596,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,20,96 h,,o,Survival rate (생존률),MATC,mg/L,250.0,<,<250,MATC,<,Chronic,MATC,Apical-core,True
+MP,597,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,45–75,96 h,,o,Survival rate (생존률),MATC,mg/L,250.0,<,<250,MATC,<,Chronic,MATC,Apical-core,True
+MP,598,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fragment,> 150,96 h,,o,Survival rate (생존률),MATC,mg/L,250.0,<,<250,MATC,<,Chronic,MATC,Apical-core,True
+MP,599,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,200–400,96 h,,o,Survival rate (생존률),MATC,mg/L,250.0,<,<250,MATC,<,Chronic,MATC,Apical-core,True
+MP,600,둥근성게,Mesocentrotus nudus,Fertilized egg,Seawater,PET,Fiber,3000,96 h,,o,Survival rate (생존률),MATC,mg/L,250.0,<,<250,MATC,<,Chronic,MATC,Apical-core,True
+MP,601,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,20,21 d,o,,Survival rate (생존율),EC50,mg/L,1767.0,,,,,Acute,EC50,Apical-core,True
+MP,602,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,45–75,21 d,o,,Survival rate (생존율),EC50,mg/L,3418.0,,,,,Acute,EC50,Apical-core,True
+MP,603,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,> 150,21 d,o,,Survival rate (생존율),EC50,mg/L,4000.0,>,> 4000,EC50,>,Acute,EC50,Apical-core,True
+MP,604,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,200–400,21 d,o,,Survival rate (생존율),EC50,mg/L,2778.0,,,,,Acute,EC50,Apical-core,True
+MP,605,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,3000,21 d,o,,Survival rate (생존율),EC50,mg/L,4000.0,>,> 4000,EC50,>,Acute,EC50,Apical-core,True
+MP,606,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,20,21 d,o,,Survival rate (생존율),EC10,mg/L,224.0,,,,,Acute,EC10,Apical-core,True
+MP,607,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,45–75,21 d,o,,Survival rate (생존율),EC10,mg/L,903.0,,,,,Acute,EC10,Apical-core,True
+MP,608,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,> 150,21 d,o,,Survival rate (생존율),EC10,mg/L,933.0,,,,,Acute,EC10,Apical-core,True
+MP,609,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,200–400,21 d,o,,Survival rate (생존율),EC10,mg/L,540.0,,,,,Acute,EC10,Apical-core,True
+MP,610,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,3000,21 d,o,,Survival rate (생존율),EC10,mg/L,1212.0,,,,,Acute,EC10,Apical-core,True
+MP,611,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,20,21 d,o,,Survival rate (생존율),NOEC,mg/L,500.0,,,,,Acute,NOEC,Apical-core,True
+MP,612,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,45–75,21 d,o,,Survival rate (생존율),NOEC,mg/L,1000.0,,,,,Acute,NOEC,Apical-core,True
+MP,613,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,> 150,21 d,o,,Survival rate (생존율),NOEC,mg/L,1000.0,,,,,Acute,NOEC,Apical-core,True
+MP,614,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,200–400,21 d,o,,Survival rate (생존율),NOEC,mg/L,1000.0,,,,,Acute,NOEC,Apical-core,True
+MP,615,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,3000,21 d,o,,Survival rate (생존율),NOEC,mg/L,4000.0,,,,,Acute,NOEC,Apical-core,True
+MP,616,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,20,21 d,o,,Survival rate (생존율),LOEC,mg/L,1000.0,,,,,Acute,LOEC,Apical-core,True
+MP,617,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,45–75,21 d,o,,Survival rate (생존율),LOEC,mg/L,2000.0,,,,,Acute,LOEC,Apical-core,True
+MP,618,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,> 150,21 d,o,,Survival rate (생존율),LOEC,mg/L,2000.0,,,,,Acute,LOEC,Apical-core,True
+MP,619,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,200–400,21 d,o,,Survival rate (생존율),LOEC,mg/L,2000.0,,,,,Acute,LOEC,Apical-core,True
+MP,620,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,3000,21 d,o,,Survival rate (생존율),LOEC,mg/L,4000.0,>,> 4000,LOEC,>,Acute,LOEC,Apical-core,True
+MP,621,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,20,21 d,o,,Survival rate (생존율),MATC,mg/L,707.0,,,,,Acute,MATC,Apical-core,True
+MP,622,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,45–75,21 d,o,,Survival rate (생존율),MATC,mg/L,1414.0,,,,,Acute,MATC,Apical-core,True
+MP,623,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fragment,> 150,21 d,o,,Survival rate (생존율),MATC,mg/L,1414.0,,,,,Acute,MATC,Apical-core,True
+MP,624,두토막눈썹참갯지렁이,Perinereis linea,Juvenile,Seawater,PET,Fiber,200–400,21 d,o,,Survival rate (생존율),MATC,mg/L,1414.0,,,,,Acute,MATC,Apical-core,True
+MP,625,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,20,7 d,,o,CEA,EC50,mg/kg,1000.0,>,> 1000,EC50,>,Chronic,EC50,Biomarker,False
+MP,626,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,45–75,7 d,,o,CEA,EC50,mg/kg,1000.0,>,> 1000,EC50,>,Chronic,EC50,Biomarker,False
+MP,627,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,7 d,,o,CEA,EC50,mg/kg,1000.0,>,> 1000,EC50,>,Chronic,EC50,Biomarker,False
+MP,628,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200–400,7 d,,o,CEA,EC50,mg/kg,1000.0,>,> 1000,EC50,>,Chronic,EC50,Biomarker,False
+MP,629,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,7 d,,o,CEA,EC50,mg/kg,1000.0,>,> 1000,EC50,>,Chronic,EC50,Biomarker,False
+MP,630,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,20,7 d,,o,CEA,NOEC,mg/kg,125.0,,,,,Chronic,NOEC,Biomarker,False
+MP,631,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,45–75,7 d,,o,CEA,NOEC,mg/kg,500.0,,,,,Chronic,NOEC,Biomarker,False
+MP,632,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,7 d,,o,CEA,NOEC,mg/kg,250.0,,,,,Chronic,NOEC,Biomarker,False
+MP,633,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200–400,7 d,,o,CEA,NOEC,mg/kg,1000.0,,,,,Chronic,NOEC,Biomarker,False
+MP,634,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,7 d,,o,CEA,NOEC,mg/kg,1000.0,,,,,Chronic,NOEC,Biomarker,False
+MP,635,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,20,7 d,,o,CEA,LOEC,mg/kg,250.0,,,,,Chronic,LOEC,Biomarker,False
+MP,636,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,45–75,7 d,,o,CEA,LOEC,mg/kg,500.0,,,,,Chronic,LOEC,Biomarker,False
+MP,637,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,7 d,,o,CEA,LOEC,mg/kg,250.0,,,,,Chronic,LOEC,Biomarker,False
+MP,638,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200–400,7 d,,o,CEA,LOEC,mg/kg,1000.0,>,> 1000,LOEC,>,Chronic,LOEC,Biomarker,False
+MP,639,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,7 d,,o,CEA,LOEC,mg/kg,1000.0,>,> 1000,LOEC,>,Chronic,LOEC,Biomarker,False
+MP,640,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,20,7 d,,o,CEA,MATC,mg/kg,177.0,,,,,Chronic,MATC,Biomarker,False
+MP,641,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,45–75,7 d,,o,CEA,MATC,mg/kg,500.0,,,,,Chronic,MATC,Biomarker,False
+MP,642,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,7 d,,o,CEA,MATC,mg/kg,250.0,,,,,Chronic,MATC,Biomarker,False
+MP,643,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,20,14 d,,o,CEA,EC50,mg/kg,596.0,,,,,Chronic,EC50,Biomarker,False
+MP,644,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,45–75,14 d,,o,CEA,EC50,mg/kg,850.0,,,,,Chronic,EC50,Biomarker,False
+MP,645,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,14 d,,o,CEA,EC50,mg/kg,1000.0,>,> 1000,EC50,>,Chronic,EC50,Biomarker,False
+MP,646,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200–400,14 d,,o,CEA,EC50,mg/kg,1000.0,>,> 1000,EC50,>,Chronic,EC50,Biomarker,False
+MP,647,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,14 d,,o,CEA,EC50,mg/kg,1000.0,>,> 1000,EC50,>,Chronic,EC50,Biomarker,False
+MP,648,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,20,14 d,,o,CEA,NOEC,mg/kg,31.25,,,,,Chronic,NOEC,Biomarker,False
+MP,649,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,45–75,14 d,,o,CEA,NOEC,mg/kg,31.25,<,< 31.25,NOEC,<,Chronic,NOEC,Biomarker,False
+MP,650,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,14 d,,o,CEA,NOEC,mg/kg,1000.0,,,,,Chronic,NOEC,Biomarker,False
+MP,651,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200–400,14 d,,o,CEA,NOEC,mg/kg,1000.0,,,,,Chronic,NOEC,Biomarker,False
+MP,652,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,14 d,,o,CEA,NOEC,mg/kg,1000.0,,,,,Chronic,NOEC,Biomarker,False
+MP,653,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,20,14 d,,o,CEA,LOEC,mg/kg,62.5,,,,,Chronic,LOEC,Biomarker,False
+MP,654,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,45–75,14 d,,o,CEA,LOEC,mg/kg,31.25,,,,,Chronic,LOEC,Biomarker,False
+MP,655,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,14 d,,o,CEA,LOEC,mg/kg,1000.0,>,> 1000,LOEC,>,Chronic,LOEC,Biomarker,False
+MP,656,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200–400,14 d,,o,CEA,LOEC,mg/kg,1000.0,>,> 1000,LOEC,>,Chronic,LOEC,Biomarker,False
+MP,657,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,14 d,,o,CEA,LOEC,mg/kg,1000.0,>,> 1000,LOEC,>,Chronic,LOEC,Biomarker,False
+MP,658,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,20,14 d,,o,CEA,MATC,mg/kg,44.0,,,,,Chronic,MATC,Biomarker,False
+MP,659,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,14 d,,o,CEA,EC50,mg/kg,4000.0,>,>4000,EC50,>,Chronic,EC50,Biomarker,False
+MP,660,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200-400,14 d,,o,CEA,EC50,mg/kg,4000.0,>,>4000,EC50,>,Chronic,EC50,Biomarker,False
+MP,661,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,14 d,,o,CEA,EC50,mg/kg,4000.0,>,>4000,EC50,>,Chronic,EC50,Biomarker,False
+MP,662,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,14 d,,o,CEA,NOEC,mg/kg,500.0,,,,,Chronic,NOEC,Biomarker,False
+MP,663,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200-400,14 d,,o,CEA,NOEC,mg/kg,500.0,,,,,Chronic,NOEC,Biomarker,False
+MP,664,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,14 d,,o,CEA,NOEC,mg/kg,1000.0,,,,,Chronic,NOEC,Biomarker,False
+MP,665,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,14 d,,o,CEA,LOEC,mg/kg,1000.0,,,,,Chronic,LOEC,Biomarker,False
+MP,666,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200-400,14 d,,o,CEA,LOEC,mg/kg,1000.0,,,,,Chronic,LOEC,Biomarker,False
+MP,667,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,14 d,,o,CEA,LOEC,mg/kg,2000.0,,,,,Chronic,LOEC,Biomarker,False
+MP,668,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fragment,> 150,14 d,,o,CEA,MATC,mg/kg,707.0,,,,,Chronic,MATC,Biomarker,False
+MP,669,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,200-400,14 d,,o,CEA,MATC,mg/kg,707.0,,,,,Chronic,MATC,Biomarker,False
+MP,670,두토막눈썹참갯지렁이,Perinereis linea,Adult,Sediment,PET,Fiber,3000,14 d,,o,CEA,MATC,mg/kg,1414.0,,,,,Chronic,MATC,Biomarker,False
+MP,671,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,Filtration efficiency (여과율 평가),EC50,mg/L,0.0005,>,>0.0005,EC50,>,Acute,EC50,Physiological,True
+MP,672,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Filtration efficiency (여과율 평가),EC50,mg/L,20.0,>,>20,EC50,>,Acute,EC50,Physiological,True
+MP,673,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Filtration efficiency (여과율 평가),EC50,mg/L,0.5,>,>0.5,EC50,>,Acute,EC50,Physiological,True
+MP,674,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200–300,96 h,o,,Filtration efficiency (여과율 평가),EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Physiological,True
+MP,675,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,Filtration efficiency (여과율 평가),NOEC,mg/L,0.0005,<,<0.0005,NOEC,<,Acute,NOEC,Physiological,True
+MP,676,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Filtration efficiency (여과율 평가),NOEC,mg/L,20.0,<,<20,NOEC,<,Acute,NOEC,Physiological,True
+MP,677,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Filtration efficiency (여과율 평가),NOEC,mg/L,0.5,<,<0.5,NOEC,<,Acute,NOEC,Physiological,True
+MP,678,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200–300,96 h,o,,Filtration efficiency (여과율 평가),NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Physiological,True
+MP,679,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,Filtration efficiency (여과율 평가),LOEC,mg/L,0.0005,,,,,Acute,LOEC,Physiological,True
+MP,680,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,Filtration efficiency (여과율 평가),LOEC,mg/L,20.0,,,,,Acute,LOEC,Physiological,True
+MP,681,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,Filtration efficiency (여과율 평가),LOEC,mg/L,0.5,,,,,Acute,LOEC,Physiological,True
+MP,682,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,Filtration efficiency (여과율 평가),LOEC,mg/L,100.0,,,,,Acute,LOEC,Physiological,True
+MP,683,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ROS,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,684,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ROS,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,685,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ROS,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,686,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200–300,96 h,o,,ROS,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,687,바지락,Ruditapes philippinarum,Adult,Seawater,PET,FIber,3000,96 h,o,,ROS,EC50,mg/L,20.0,>,>20,EC50,>,Acute,EC50,Biomarker,False
+MP,688,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ROS,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,689,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ROS,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,690,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ROS,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,691,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200–300,96 h,o,,ROS,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,692,바지락,Ruditapes philippinarum,Adult,Seawater,PET,FIber,3000,96 h,o,,ROS,NOEC,mg/L,20.0,<,<20,NOEC,<,Acute,NOEC,Biomarker,False
+MP,693,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ROS,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,694,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ROS,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,695,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ROS,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,696,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ROS,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,697,바지락,Ruditapes philippinarum,Adult,Seawater,PET,FIber,3000,96 h,o,,ROS,LOEC,mg/L,20.0,,,,,Acute,LOEC,Biomarker,False
+MP,698,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ROS,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,699,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ROS,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,700,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ROS,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,701,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ROS,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,702,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ROS,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,703,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ROS,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,704,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ROS,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,705,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ROS,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,706,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ROS,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,707,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ROS,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,708,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ROS,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,709,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ROS,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,710,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,711,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,712,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,SOD,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,713,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,EC50,mg/L,20.0,>,>20,EC50,>,Acute,EC50,Biomarker,False
+MP,714,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,715,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,716,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,SOD,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,717,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,NOEC,mg/L,20.0,<,<20,NOEC,<,Acute,NOEC,Biomarker,False
+MP,718,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,719,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,720,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,SOD,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,721,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,LOEC,mg/L,20.0,,,,,Acute,LOEC,Biomarker,False
+MP,722,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,723,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,724,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,725,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,SOD,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,726,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,727,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,728,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,729,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,730,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,SOD,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,731,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,732,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,SOD,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,733,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,SOD,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,734,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,SOD,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,735,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,SOD,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,736,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,SOD,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,737,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ACP,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,738,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ACP,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,739,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ACP,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,740,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ACP,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,741,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ACP,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,742,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ACP,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,743,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ACP,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,744,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ACP,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,745,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ACP,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,746,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ACP,EC50,mg/L,0.0005,>,>0.0005,EC50,>,Acute,EC50,Biomarker,False
+MP,747,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ACP,EC50,mg/L,0.0005,>,>0.0005,EC50,>,Acute,EC50,Biomarker,False
+MP,748,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ACP,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,749,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ACP,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,750,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ACP,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,751,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ACP,NOEC,mg/L,0.0005,<,<0.0005,NOEC,<,Acute,NOEC,Biomarker,False
+MP,752,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ACP,NOEC,mg/L,0.0005,<,<0.0005,NOEC,<,Acute,NOEC,Biomarker,False
+MP,753,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,ACP,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,754,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ACP,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,755,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ACP,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,756,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ACP,LOEC,mg/L,0.0005,,,,,Acute,LOEC,Biomarker,False
+MP,757,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ACP,LOEC,mg/L,0.0005,,,,,Acute,LOEC,Biomarker,False
+MP,758,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ALP,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,759,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ALP,EC50,mg/L,20.0,>,>20,EC50,>,Acute,EC50,Biomarker,False
+MP,760,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ALP,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,761,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ALP,NOEC,mg/L,20.0,<,<20,NOEC,<,Acute,NOEC,Biomarker,False
+MP,762,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,ALP,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,763,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ALP,LOEC,mg/L,20.0,,,,,Acute,LOEC,Biomarker,False
+MP,764,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ALP,EC50,mg/L,20.0,>,>20,EC50,>,Acute,EC50,Biomarker,False
+MP,765,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ALP,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,766,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ALP,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,767,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ALP,NOEC,mg/L,20.0,<,<20,NOEC,<,Acute,NOEC,Biomarker,False
+MP,768,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,ALP,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,769,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ALP,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,769,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,3000,96 h,o,,ALP,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,770,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,ALP,LOEC,mg/L,20.0,,,,,Acute,LOEC,Biomarker,False
+MP,771,바지락,Ruditapes philippinarum,Adult,Seawater,PET,FIber,200-400,96 h,o,,ALP,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,772,바지락,Ruditapes philippinarum,Adult,Seawater,PET,FIber,3000,96 h,o,,ALP,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,773,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,AChE,EC50,mg/L,20.0,>,>20,EC50,>,Acute,EC50,Biomarker,False
+MP,774,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,AChE,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,775,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,AChE,EC50,mg/L,2.0,>,>2,EC50,>,Acute,EC50,Biomarker,False
+MP,776,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,AChE,NOEC,mg/L,20.0,<,<20,NOEC,<,Acute,NOEC,Biomarker,False
+MP,777,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,AChE,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,778,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,AChE,NOEC,mg/L,2.0,<,<2,NOEC,<,Acute,NOEC,Biomarker,False
+MP,779,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,AChE,LOEC,mg/L,20.0,,,,,Acute,LOEC,Biomarker,False
+MP,780,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,45–75,96 h,o,,AChE,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,781,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,> 150,96 h,o,,AChE,LOEC,mg/L,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,782,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,AChE,EC50,mg/L,100.0,>,>100,EC50,>,Acute,EC50,Biomarker,False
+MP,783,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,AChE,EC50,mg/L,20.0,>,>20,EC50,>,Acute,EC50,Biomarker,False
+MP,784,바지락,Ruditapes philippinarum,Adult,Seawater,PET,FIber,3000,96 h,o,,AChE,EC50,mg/L,0.0005,>,>0.0005,EC50,>,Acute,EC50,Biomarker,False
+MP,785,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,AChE,NOEC,mg/L,100.0,<,<100,NOEC,<,Acute,NOEC,Biomarker,False
+MP,786,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200-400,96 h,o,,AChE,NOEC,mg/L,20.0,<,<20,NOEC,<,Acute,NOEC,Biomarker,False
+MP,787,바지락,Ruditapes philippinarum,Adult,Seawater,PET,FIber,3000,96 h,o,,AChE,NOEC,mg/L,0.0005,<,<0.0005,NOEC,<,Acute,NOEC,Biomarker,False
+MP,788,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fragment,20,96 h,o,,AChE,LOEC,mg/L,100.0,,,,,Acute,LOEC,Biomarker,False
+MP,789,바지락,Ruditapes philippinarum,Adult,Seawater,PET,Fiber,200–400,96 h,o,,AChE,LOEC,mg/L,20.0,,,,,Acute,LOEC,Biomarker,False
+MP,790,바지락,Ruditapes philippinarum,Adult,Seawater,PET,FIber,3000,96 h,o,,AChE,LOEC,mg/L,0.0005,,,,,Acute,LOEC,Biomarker,False
+MP,791,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,20,21 d,,o,Mortality rate (사망률),LOEC,mg/kg,80.0,,,,,Chronic,LOEC,Apical-core,True
+MP,792,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,> 150,21 d,,o,Mortality rate (사망률),LOEC,mg/kg,80.0,,,,,Chronic,LOEC,Apical-core,True
+MP,793,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fiber,200–400,21 d,,o,Mortality rate (사망률),LOEC,mg/kg,80.0,,,,,Chronic,LOEC,Apical-core,True
+MP,794,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fiber,3000,21 d,,o,Mortality rate (사망률),LOEC,mg/kg,80.0,,,,,Chronic,LOEC,Apical-core,True
+MP,795,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,20,21 d,,o,Filtration efficiency (여과율 평가),EC50,mg/kg,0.8,>,> 0.8,EC50,>,Chronic,EC50,Physiological,True
+MP,796,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,> 150,21 d,,o,Filtration efficiency (여과율 평가),EC50,mg/kg,0.8,>,> 0.8,EC50,>,Chronic,EC50,Physiological,True
+MP,797,바지락,Ruditapes philippinarum,Adult,Sediment,PET,FIber,200-400,21 d,,o,Filtration efficiency (여과율 평가),EC50,mg/kg,8.0,>,> 8,EC50,>,Chronic,EC50,Physiological,True
+MP,798,바지락,Ruditapes philippinarum,Adult,Sediment,PET,FIber,3000,21 d,,o,Filtration efficiency (여과율 평가),EC50,mg/kg,8.0,>,> 8,EC50,>,Chronic,EC50,Physiological,True
+MP,799,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,20,21 d,,o,Filtration efficiency (여과율 평가),NOEC,mg/kg,0.8,<,<0.8,NOEC,<,Chronic,NOEC,Physiological,True
+MP,800,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,> 150,21 d,,o,Filtration efficiency (여과율 평가),NOEC,mg/kg,0.8,<,<0.8,NOEC,<,Chronic,NOEC,Physiological,True
+MP,801,바지락,Ruditapes philippinarum,Adult,Sediment,PET,FIber,200-400,21 d,,o,Filtration efficiency (여과율 평가),NOEC,mg/kg,8.0,<,<8,NOEC,<,Chronic,NOEC,Physiological,True
+MP,802,바지락,Ruditapes philippinarum,Adult,Sediment,PET,FIber,3000,21 d,,o,Filtration efficiency (여과율 평가),LOEC,mg/kg,8.0,<,<8,LOEC,<,Chronic,LOEC,Physiological,True
+MP,803,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,20,21 d,,o,Filtration efficiency (여과율 평가),LOEC,mg/kg,0.8,,,,,Chronic,LOEC,Physiological,True
+MP,804,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,> 150,21 d,,o,Filtration efficiency (여과율 평가),LOEC,mg/kg,0.8,,,,,Chronic,LOEC,Physiological,True
+MP,805,바지락,Ruditapes philippinarum,Adult,Sediment,PET,FIber,200–400,21 d,,o,Filtration efficiency (여과율 평가),LOEC,mg/kg,8.0,,,,,Chronic,LOEC,Physiological,True
+MP,806,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fiber,3000,21 d,,o,Filtration efficiency (여과율 평가),LOEC,mg/kg,8.0,,,,,Chronic,LOEC,Physiological,True
+MP,807,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,> 150,21 d,,o,Respiration rate (호흡률 평가),EC50,mg/kg,80.0,>,> 80,EC50,>,Chronic,EC50,Physiological,True
+MP,808,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fiber,200-400,21 d,,o,Respiration rate (호흡률 평가),EC50,mg/kg,80.0,>,> 80,EC50,>,Chronic,EC50,Physiological,True
+MP,809,바지락,Ruditapes philippinarum,Adult,Sediment,PET,FIber,3000,21 d,,o,Respiration rate (호흡률 평가),EC50,mg/kg,0.8,>,> 0.8,EC50,>,Chronic,EC50,Physiological,True
+MP,810,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,> 150,21 d,,o,Respiration rate (호흡률 평가),NOEC,mg/kg,80.0,<,<80,NOEC,<,Chronic,NOEC,Physiological,True
+MP,811,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fiber,200-400,21 d,,o,Respiration rate (호흡률 평가),NOEC,mg/kg,80.0,<,<80,NOEC,<,Chronic,NOEC,Physiological,True
+MP,812,바지락,Ruditapes philippinarum,Adult,Sediment,PET,FIber,3000,21 d,,o,Respiration rate (호흡률 평가),NOEC,mg/kg,0.8,<,<0.8,NOEC,<,Chronic,NOEC,Physiological,True
+MP,813,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fragment,> 150,21 d,,o,Respiration rate (호흡률 평가),LOEC,mg/kg,80.0,,,,,Chronic,LOEC,Physiological,True
+MP,814,바지락,Ruditapes philippinarum,Adult,Sediment,PET,Fiber,200–400,21 d,,o,Respiration rate (호흡률 평가),LOEC,mg/kg,80.0,,,,,Chronic,LOEC,Physiological,True
+MP,815,바지락,Ruditapes philippinarum,Adult,Sediment,PET,FIber,3000,21 d,,o,Respiration rate (호흡률 평가),LOEC,mg/kg,0.8,,,,,Chronic,LOEC,Physiological,True
+MP,816,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,10 d,o,,Maximum speed (최대 속력),EC50,mg/kg,200.0,>,> 200,EC50,>,Acute,EC50,Behavior,True
+MP,817,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,10 d,o,,Maximum speed (최대 속력),NOEC,mg/kg,200.0,<,< 200,NOEC,<,Acute,NOEC,Behavior,True
+MP,818,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,10 d,o,,Maximum speed (최대 속력),LOEC,mg/kg,200.0,,,,,Acute,LOEC,Behavior,True
+MP,819,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,200-400,10 d,o,,Maximum speed (최대 속력),EC50,mg/kg,4.0,>,> 4,EC50,>,Acute,EC50,Behavior,True
+MP,820,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,200-400,10 d,o,,Maximum speed (최대 속력),NOEC,mg/kg,4.0,<,< 4,NOEC,<,Acute,NOEC,Behavior,True
+MP,821,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,200–400,10 d,o,,Maximum speed (최대 속력),LOEC,mg/kg,4.0,,,,,Acute,LOEC,Behavior,True
+MP,822,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,3000,10 d,o,,Maximum speed (최대 속력),EC50,mg/kg,4.0,>,> 4,EC50,>,Acute,EC50,Behavior,True
+MP,823,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,3000,10 d,o,,Maximum speed (최대 속력),NOEC,mg/kg,4.0,<,< 4,NOEC,<,Acute,NOEC,Behavior,True
+MP,824,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,3000,10 d,o,,Maximum speed (최대 속력),LOEC,mg/kg,4.0,,,,,Acute,LOEC,Behavior,True
+MP,825,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Survival rate (생존율),EC50,mg/kg,0.002,>,> 0.002,EC50,>,Chronic,EC50,Apical-core,True
+MP,826,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Survival rate (생존율),NOEC,mg/kg,0.002,<,< 0.002,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,827,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Survival rate (생존율),LOEC,mg/kg,0.002,,,,,Chronic,LOEC,Apical-core,True
+MP,828,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45–75,35 d,,o,Survival rate (생존율),EC50,mg/kg,0.002,>,> 0.002,EC50,>,Chronic,EC50,Apical-core,True
+MP,829,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45–75,35 d,,o,Survival rate (생존율),NOEC,mg/kg,0.002,<,< 0.002,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,830,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45–75,35 d,,o,Survival rate (생존율),LOEC,mg/kg,0.002,,,,,Chronic,LOEC,Apical-core,True
+MP,831,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Total distance movement (총 이동 거리),EC50,mg/kg,0.002,>,> 0.002,EC50,>,Chronic,EC50,Behavior,True
+MP,832,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Total distance movement (총 이동 거리),NOEC,mg/kg,0.002,<,< 0.002,NOEC,<,Chronic,NOEC,Behavior,True
+MP,833,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Total distance movement (총 이동 거리),LOEC,mg/kg,0.002,,,,,Chronic,LOEC,Behavior,True
+MP,834,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45-75,35 d,,o,Total distance movement (총 이동 거리),EC50,mg/kg,0.002,>,> 0.002,EC50,>,Chronic,EC50,Behavior,True
+MP,835,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45-75,35 d,,o,Total distance movement (총 이동 거리),NOEC,mg/kg,0.002,<,< 0.002,NOEC,<,Chronic,NOEC,Behavior,True
+MP,836,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45-75,35 d,,o,Total distance movement (총 이동 거리),LOEC,mg/kg,0.002,,,,,Chronic,LOEC,Behavior,True
+MP,837,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,> 150,35 d,,o,Total distance movement (총 이동 거리),EC50,mg/kg,40.0,>,> 40,EC50,>,Chronic,EC50,Behavior,True
+MP,838,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,> 150,35 d,,o,Total distance movement (총 이동 거리),NOEC,mg/kg,40.0,<,< 40,NOEC,<,Chronic,NOEC,Behavior,True
+MP,839,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,> 150,35 d,,o,Total distance movement (총 이동 거리),LOEC,mg/kg,40.0,,,,,Chronic,LOEC,Behavior,True
+MP,840,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,200-400,35 d,,o,Total distance movement (총 이동 거리),EC50,mg/kg,0.002,>,> 0.002,EC50,>,Chronic,EC50,Behavior,True
+MP,841,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,200-400,35 d,,o,Total distance movement (총 이동 거리),NOEC,mg/kg,0.002,<,< 0.002,NOEC,<,Chronic,NOEC,Behavior,True
+MP,842,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,200–400,35 d,,o,Total distance movement (총 이동 거리),LOEC,mg/kg,0.002,,,,,Chronic,LOEC,Behavior,True
+MP,843,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fiber,3000,10 d,o,,Total distance movement (총 이동 거리),EC50,mg/kg,40.0,>,> 40,EC50,>,Acute,EC50,Behavior,True
+MP,844,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fiber,3000,10 d,o,,Total distance movement (총 이동 거리),NOEC,mg/kg,40.0,<,< 40,NOEC,<,Acute,NOEC,Behavior,True
+MP,845,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fiber,3000,10 d,o,,Total distance movement (총 이동 거리),LOEC,mg/kg,40.0,,,,,Acute,LOEC,Behavior,True
+MP,846,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Maximum speed (최대 속력),EC50,mg/kg,40.0,>,> 40,EC50,>,Chronic,EC50,Behavior,True
+MP,847,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Maximum speed (최대 속력),NOEC,mg/kg,40.0,<,< 40,NOEC,<,Chronic,NOEC,Behavior,True
+MP,848,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,20,35 d,,o,Maximum speed (최대 속력),LOEC,mg/kg,40.0,,,,,Chronic,LOEC,Behavior,True
+MP,849,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45–75,35 d,,o,Maximum speed (최대 속력),EC50,mg/kg,0.002,>,> 0.002,EC50,>,Chronic,EC50,Behavior,True
+MP,850,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45–75,35 d,,o,Maximum speed (최대 속력),NOEC,mg/kg,0.002,<,< 0.002,NOEC,<,Chronic,NOEC,Behavior,True
+MP,851,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fragment,45–75,35 d,,o,Maximum speed (최대 속력),LOEC,mg/kg,0.002,,,,,Chronic,LOEC,Behavior,True
+MP,852,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fiber,3000,35 d,,o,Maximum speed (최대 속력),EC50,mg/kg,0.002,>,> 0.002,EC50,>,Chronic,EC50,Behavior,True
+MP,853,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fiber,3000,35 d,,o,Maximum speed (최대 속력),NOEC,mg/kg,0.002,<,< 0.002,NOEC,<,Chronic,NOEC,Behavior,True
+MP,854,단각류,Monocorophium uenoi,Adult,Sediment,PET,Fiber,3000,35 d,,o,Maximum speed (최대 속력),LOEC,mg/kg,0.002,,,,,Chronic,LOEC,Behavior,True
+MP,855,알테미아,Artemia franciscana,Juvenile,Sediment,PET,FRagment,20,48 h,o,,Survival rate (생존율),EC50,mg/kg,200.0,>,> 200,EC50,>,Acute,EC50,Apical-core,True
+MP,856,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),EC50,mg/kg,200.0,>,> 200,EC50,>,Acute,EC50,Apical-core,True
+MP,857,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,48 h,o,,Survival rate (생존율),EC50,mg/kg,200.0,>,> 200,EC50,>,Acute,EC50,Apical-core,True
+MP,858,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),EC50,mg/kg,200.0,>,> 200,EC50,>,Acute,EC50,Apical-core,True
+MP,859,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,48 h,o,,Survival rate (생존율),EC50,mg/kg,200.0,>,> 200,EC50,>,Acute,EC50,Apical-core,True
+MP,860,알테미아,Artemia franciscana,Juvenile,Sediment,PET,FRagment,20,48 h,o,,Survival rate (생존율),EC10,mg/kg,200.0,>,> 200,EC10,>,Acute,EC10,Apical-core,True
+MP,861,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),EC10,mg/kg,200.0,>,> 200,EC10,>,Acute,EC10,Apical-core,True
+MP,862,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,48 h,o,,Survival rate (생존율),EC10,mg/kg,200.0,>,> 200,EC10,>,Acute,EC10,Apical-core,True
+MP,863,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),EC10,mg/kg,200.0,>,> 200,EC10,>,Acute,EC10,Apical-core,True
+MP,864,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,48 h,o,,Survival rate (생존율),EC10,mg/kg,200.0,>,> 200,EC10,>,Acute,EC10,Apical-core,True
+MP,865,알테미아,Artemia franciscana,Juvenile,Sediment,PET,FRagment,20,48 h,o,,Survival rate (생존율),NOEC,mg/kg,200.0,,,,,Acute,NOEC,Apical-core,True
+MP,866,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),NOEC,mg/kg,200.0,,,,,Acute,NOEC,Apical-core,True
+MP,867,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,48 h,o,,Survival rate (생존율),NOEC,mg/kg,200.0,,,,,Acute,NOEC,Apical-core,True
+MP,868,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200–400,48 h,o,,Survival rate (생존율),NOEC,mg/kg,1000.0,,,,,Acute,NOEC,Apical-core,True
+MP,869,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,48 h,o,,Survival rate (생존율),NOEC,mg/kg,400.0,,,,,Acute,NOEC,Apical-core,True
+MP,870,알테미아,Artemia franciscana,Juvenile,Sediment,PET,FRagment,20,48 h,o,,Survival rate (생존율),LOEC,mg/kg,200.0,>,> 200,LOEC,>,Acute,LOEC,Apical-core,True
+MP,871,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),LOEC,mg/kg,200.0,>,> 200,LOEC,>,Acute,LOEC,Apical-core,True
+MP,872,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,48 h,o,,Survival rate (생존율),LOEC,mg/kg,200.0,>,> 200,LOEC,>,Acute,LOEC,Apical-core,True
+MP,873,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),LOEC,mg/kg,1000.0,>,> 1000,LOEC,>,Acute,LOEC,Apical-core,True
+MP,874,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,48 h,o,,Survival rate (생존율),LOEC,mg/kg,1000.0,,,,,Acute,LOEC,Apical-core,True
+MP,875,알테미아,Artemia franciscana,Juvenile,Sediment,PET,FRagment,20,48 h,o,,Survival rate (생존율),MATC,mg/kg,200.0,>,> 200,MATC,>,Acute,MATC,Apical-core,True
+MP,876,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,48 h,o,,Survival rate (생존율),MATC,mg/kg,200.0,>,> 200,MATC,>,Acute,MATC,Apical-core,True
+MP,877,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,48 h,o,,Survival rate (생존율),MATC,mg/kg,200.0,>,> 200,MATC,>,Acute,MATC,Apical-core,True
+MP,878,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,48 h,o,,Survival rate (생존율),MATC,mg/kg,1000.0,>,> 1000,MATC,>,Acute,MATC,Apical-core,True
+MP,879,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,48 h,o,,Survival rate (생존율),MATC,mg/kg,632.0,,,,,Acute,MATC,Apical-core,True
+MP,880,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,20,48 h,o,,Apoptosis (세포독성),NOEC,mg/kg,0.2,,,,,Acute,NOEC,Biomarker,False
+MP,881,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,48 h,o,,Apoptosis (세포독성),NOEC,mg/kg,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,882,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,48 h,o,,Apoptosis (세포독성),NOEC,mg/kg,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,883,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200–400,48 h,o,,Apoptosis (세포독성),NOEC,mg/kg,400.0,,,,,Acute,NOEC,Biomarker,False
+MP,884,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,48 h,o,,Apoptosis (세포독성),NOEC,mg/kg,100.0,,,,,Acute,NOEC,Biomarker,False
+MP,885,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,20,48 h,o,,Apoptosis (세포독성),LOEC,mg/kg,2.0,,,,,Acute,LOEC,Biomarker,False
+MP,886,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,48 h,o,,Apoptosis (세포독성),LOEC,mg/kg,200.0,,,,,Acute,LOEC,Biomarker,False
+MP,887,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,48 h,o,,Apoptosis (세포독성),LOEC,mg/kg,200.0,,,,,Acute,LOEC,Biomarker,False
+MP,888,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200–400,48 h,o,,Apoptosis (세포독성),LOEC,mg/kg,1000.0,,,,,Acute,LOEC,Biomarker,False
+MP,889,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,48 h,o,,Apoptosis (세포독성),LOEC,mg/kg,400.0,,,,,Acute,LOEC,Biomarker,False
+MP,890,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,20,48 h,o,,Apoptosis (세포독성),MATC,mg/kg,0.6324555320336759,,,,,Acute,MATC,Biomarker,False
+MP,891,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,48 h,o,,Apoptosis (세포독성),MATC,mg/kg,141.4213562373095,,,,,Acute,MATC,Biomarker,False
+MP,892,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,48 h,o,,Apoptosis (세포독성),MATC,mg/kg,141.4213562373095,,,,,Acute,MATC,Biomarker,False
+MP,893,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,48 h,o,,Apoptosis (세포독성),MATC,mg/kg,632.4555320336759,,,,,Acute,MATC,Biomarker,False
+MP,894,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,48 h,o,,Apoptosis (세포독성),MATC,mg/kg,200.0,,,,,Acute,MATC,Biomarker,False
+MP,895,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,20,28 d,,o,Survival rate (생존율),EC50,mg/kg,80.0,>,> 80,EC50,>,Chronic,EC50,Apical-core,True
+MP,896,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,28 d,,o,Survival rate (생존율),EC50,mg/kg,80.0,>,> 80,EC50,>,Chronic,EC50,Apical-core,True
+MP,897,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,28 d,,o,Survival rate (생존율),EC50,mg/kg,80.0,>,> 80,EC50,>,Chronic,EC50,Apical-core,True
+MP,898,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,28 d,,o,Survival rate (생존율),EC50,mg/kg,80.0,>,> 80,EC50,>,Chronic,EC50,Apical-core,True
+MP,899,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,28 d,,o,Survival rate (생존율),EC50,mg/kg,80.0,>,> 80,EC50,>,Chronic,EC50,Apical-core,True
+MP,900,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,20,28 d,,o,Survival rate (생존율),EC10,mg/kg,80.0,>,> 80,EC10,>,Chronic,EC10,Apical-core,True
+MP,901,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,28 d,,o,Survival rate (생존율),EC10,mg/kg,80.0,>,> 80,EC10,>,Chronic,EC10,Apical-core,True
+MP,902,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,28 d,,o,Survival rate (생존율),EC10,mg/kg,80.0,>,> 80,EC10,>,Chronic,EC10,Apical-core,True
+MP,903,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,28 d,,o,Survival rate (생존율),EC10,mg/kg,80.0,>,> 80,EC10,>,Chronic,EC10,Apical-core,True
+MP,904,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,28 d,,o,Survival rate (생존율),EC10,mg/kg,0.144,,,,,Chronic,EC10,Apical-core,True
+MP,905,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,20,28 d,,o,Survival rate (생존율),NOEC,mg/kg,0.2,<,< 0.2,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,906,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,28 d,,o,Survival rate (생존율),NOEC,mg/kg,0.2,,,,,Chronic,NOEC,Apical-core,True
+MP,907,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,28 d,,o,Survival rate (생존율),NOEC,mg/kg,0.2,<,< 0.2,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,908,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,28 d,,o,Survival rate (생존율),NOEC,mg/kg,0.2,<,< 0.2,NOEC,<,Chronic,NOEC,Apical-core,True
+MP,909,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,28 d,,o,Survival rate (생존율),NOEC,mg/kg,4.0,,,,,Chronic,NOEC,Apical-core,True
+MP,910,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,20,28 d,,o,Survival rate (생존율),LOEC,mg/kg,0.2,,,,,Chronic,LOEC,Apical-core,True
+MP,911,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,28 d,,o,Survival rate (생존율),LOEC,mg/kg,4.0,,,,,Chronic,LOEC,Apical-core,True
+MP,912,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,28 d,,o,Survival rate (생존율),LOEC,mg/kg,0.2,,,,,Chronic,LOEC,Apical-core,True
+MP,913,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,28 d,,o,Survival rate (생존율),LOEC,mg/kg,0.2,,,,,Chronic,LOEC,Apical-core,True
+MP,914,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,28 d,,o,Survival rate (생존율),LOEC,mg/kg,80.0,,,,,Chronic,LOEC,Apical-core,True
+MP,915,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,20,28 d,,o,Survival rate (생존율),MATC,mg/kg,0.2,<,< 0.2,MATC,<,Chronic,MATC,Apical-core,True
+MP,916,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,45–75,28 d,,o,Survival rate (생존율),MATC,mg/kg,0.8944271909999159,,,,,Chronic,MATC,Apical-core,True
+MP,917,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fragment,> 150,28 d,,o,Survival rate (생존율),MATC,mg/kg,0.2,<,< 0.2,MATC,<,Chronic,MATC,Apical-core,True
+MP,918,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,200-400,28 d,,o,Survival rate (생존율),MATC,mg/kg,0.2,<,< 0.2,MATC,<,Chronic,MATC,Apical-core,True
+MP,919,알테미아,Artemia franciscana,Juvenile,Sediment,PET,Fiber,3000,28 d,,o,Survival rate (생존율),MATC,mg/kg,17.88854381999832,,,,,Chronic,MATC,Apical-core,True
+MP,920,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,20,96 h,o,,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Acute,EC50,Apical-core,True
+MP,921,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Acute,EC50,Apical-core,True
+MP,922,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Acute,EC50,Apical-core,True
+MP,923,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Acute,EC50,Apical-core,True
+MP,924,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,FIber,3000,96 h,o,,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Acute,EC50,Apical-core,True
+MP,925,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,20,96 h,o,,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Acute,NOEC,Apical-core,True
+MP,926,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Acute,NOEC,Apical-core,True
+MP,927,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Acute,NOEC,Apical-core,True
+MP,928,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Acute,NOEC,Apical-core,True
+MP,929,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,FIber,3000,96 h,o,,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Acute,NOEC,Apical-core,True
+MP,930,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,20,96 h,o,,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Acute,LOEC,Apical-core,True
+MP,931,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Acute,LOEC,Apical-core,True
+MP,932,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Acute,LOEC,Apical-core,True
+MP,933,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Acute,LOEC,Apical-core,True
+MP,934,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,FIber,3000,96 h,o,,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Acute,LOEC,Apical-core,True
+MP,935,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,20,96 h,o,,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Acute,MATC,Apical-core,True
+MP,936,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,45–75,96 h,o,,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Acute,MATC,Apical-core,True
+MP,937,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,> 150,96 h,o,,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Acute,MATC,Apical-core,True
+MP,938,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fiber,200-400,96 h,o,,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Acute,MATC,Apical-core,True
+MP,939,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,FIber,3000,96 h,o,,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Acute,MATC,Apical-core,True
+MP,940,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,20,21 d,,o,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Chronic,EC50,Apical-core,True
+MP,941,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,45–75,21 d,,o,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Chronic,EC50,Apical-core,True
+MP,942,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,> 150,21 d,,o,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Chronic,EC50,Apical-core,True
+MP,943,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fiber,200-400,21 d,,o,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Chronic,EC50,Apical-core,True
+MP,944,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,FIber,3000,21 d,,o,Survival rate (생존율),EC50,mg/kg,700.0,>,> 700,EC50,>,Chronic,EC50,Apical-core,True
+MP,945,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,20,21 d,,o,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Chronic,NOEC,Apical-core,True
+MP,946,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,45–75,21 d,,o,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Chronic,NOEC,Apical-core,True
+MP,947,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,> 150,21 d,,o,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Chronic,NOEC,Apical-core,True
+MP,948,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fiber,200-400,21 d,,o,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Chronic,NOEC,Apical-core,True
+MP,949,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,FIber,3000,21 d,,o,Survival rate (생존율),NOEC,mg/kg,700.0,,,,,Chronic,NOEC,Apical-core,True
+MP,950,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,20,21 d,,o,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,951,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,45–75,21 d,,o,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,952,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,> 150,21 d,,o,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,953,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fiber,200–300,21 d,,o,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,954,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,FIber,3000,21 d,,o,Survival rate (생존율),LOEC,mg/kg,700.0,>,> 700,LOEC,>,Chronic,LOEC,Apical-core,True
+MP,955,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,20,21 d,,o,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Chronic,MATC,Apical-core,True
+MP,956,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,45–75,21 d,,o,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Chronic,MATC,Apical-core,True
+MP,957,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fragment,> 150,21 d,,o,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Chronic,MATC,Apical-core,True
+MP,958,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,Fiber,200-400,21 d,,o,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Chronic,MATC,Apical-core,True
+MP,959,흰다리새우,Penaeus vannamei,Juvenile,Sediment,PET,FIber,3000,21 d,,o,Survival rate (생존율),MATC,mg/kg,700.0,>,> 700,MATC,>,Chronic,MATC,Apical-core,True

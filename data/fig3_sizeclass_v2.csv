@@ -1,0 +1,89 @@
+﻿panel,Species,source_mix,class_v2,run_type_ours,n_effects,n_series,n_series_multi,n_series_single,size_union,series_detail,class_v1,changed
+FD-Q1,Aiptasiogeton eruptaurantia,ours,Multiple-size data,Within-run,3,1,1,0,"17.5,60,300","OURS|ours|sizes=17.5,60,300|dates=202407",Multiple-size data,False
+FD-Q1,Brachionus koreanus,ours,Multiple-size data,Within+Across-run,44,1,1,0,"2.8,5,9.5,15,38.5,60,112.1","OURS|ours|sizes=2.8,5,9.5,15,38.5,60,112.1|dates=20220824+20230706+20230713+20230716+20230719+20250712+20250714+20251128",Both size-data types,True
+FD-Q1,Brachionus plicatilis,ToMEx,Single-size data,,1,1,0,1,2.5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=2.5,Single-size data,False
+FD-Q1,Crepidula onyx,ToMEx,Single-size data,,2,1,0,1,3.5,10.1016/j.envpol.2017.10.095|ToMEx|sizes=3.5,Single-size data,False
+FD-Q1,Diaphanosoma celebensis,ToMEx,Single-size data,,9,1,0,1,6.2,10.1016/j.aquatox.2021.105821|ToMEx|sizes=6.2,Single-size data,False
+FD-Q1,Haliotis discus hannai,ours,Multiple-size data,Within+Across-run,13,1,1,0,"3,17.5,20,60,300","OURS|ours|sizes=3,17.5,20,60,300|dates=20220803+20231004",Multiple-size data,False
+FD-Q1,Macrophthalmus japonicus,ours,Multiple-size data,Within+Across-run,40,1,1,0,"20,60,300,3000","OURS|ours|sizes=20,60,300,3000|dates=20230619+20230804+20240528+20240608",Both size-data types,True
+FD-Q1,Mesocentrotus nudus,ours,Multiple-size data,Within+Across-run,16,1,1,0,"3,20,60,300","OURS|ours|sizes=3,20,60,300|dates=20220929+20220930+20240927+20240930",Multiple-size data,False
+FD-Q1,Mytilus galloprovincialis,ours+ToMEx,Both size-data types,Within+Across-run,31,3,1,2,"3,10,17.5,20,29.5,60,300,3000","10.3390/ani11082317|ToMEx|sizes=10; 10.3390/nano11030649|ToMEx|sizes=3; OURS|ours|sizes=3,17.5,20,29.5,60,300,3000|dates=20220629+20220805+20221003+20221102+20230517",Both size-data types,False
+FD-Q1,Neomysis awatschensis,ours,Multiple-size data,Within+Across-run,4,1,1,0,"17.5,60,300,3000","OURS|ours|sizes=17.5,60,300,3000|dates=202406+202407",Multiple-size data,False
+FD-Q1,Oplegnathus fasciatus,ours,Multiple-size data,Within-run,3,1,1,0,"20,60","OURS|ours|sizes=20,60|dates=20220929",Multiple-size data,False
+FD-Q1,Oryzias melastigma,ToMEx,Single-size data,,97,1,0,1,10,10.1016/j.envpol.2019.113024|ToMEx|sizes=10,Single-size data,False
+FD-Q1,Parvocalanus crassirostris,ToMEx,Single-size data,,2,1,0,1,7.5,10.1016/j.ecoenv.2017.03.029|ToMEx|sizes=7.5,Single-size data,False
+FD-Q1,Perinereis linea,ours,Multiple-size data,Within-run,4,1,1,0,"3,20,60,300","OURS|ours|sizes=3,20,60,300|dates=20240909",Multiple-size data,False
+FD-Q1,Pinctada margaritifera,ToMEx,Single-size data,,3,1,0,1,8,10.1021/acs.est.8b00168|ToMEx|sizes=8,Single-size data,False
+FD-Q1,Ruditapes philippinarum,ours,Multiple-size data,Within+Across-run,40,1,1,0,"3,7.5,20,60,150,250","OURS|ours|sizes=3,7.5,20,60,150,250|dates=20220828+20250616",Both size-data types,True
+FD-Q1,Sebastes schlegelii,ours,Multiple-size data,Within+Across-run,44,1,1,0,"20,60,112,112.1,300,3000","OURS|ours|sizes=20,60,112,112.1,300,3000|dates=20220720+20230725+20250715",Multiple-size data,False
+FD-Q1,Tigriopus fulvus,ToMEx,Single-size data,,2,1,0,1,2.5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=2.5,Single-size data,False
+FD-Q1,Tigriopus japonicus,ours+ToMEx,Both size-data types,Within+Across-run,7,2,1,1,"1,6,10,20,60","10.1021/es401932b|ToMEx|sizes=6; OURS|ours|sizes=1,10,20,60|dates=2023+20230929",Both size-data types,False
+FD-Q1,Tripneustes gratilla,ToMEx,Single-size data,,2,1,0,1,28.5,0.1021/es404295e|ToMEx|sizes=28.5,Single-size data,False
+TT-Q1,Aiptasiogeton eruptaurantia,ours,Multiple-size data,Within-run,2,1,1,0,"17.5,60","OURS|ours|sizes=17.5,60|dates=202407",Multiple-size data,False
+TT-Q1,Brachionus koreanus,ours,Multiple-size data,Within+Across-run,39,1,1,0,"2.8,5,9.5,15,38.5,60","OURS|ours|sizes=2.8,5,9.5,15,38.5,60|dates=20220824+20230706+20230713+20230716+20230719",Multiple-size data,False
+TT-Q1,Brachionus plicatilis,ToMEx,Single-size data,,1,1,0,1,2.5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=2.5,Single-size data,False
+TT-Q1,Centropristis striata,ToMEx,Single-size data,,1,1,0,1,15,10.1016/j.envpol.2021.117653|ToMEx|sizes=15,Single-size data,False
+TT-Q1,Crepidula onyx,ToMEx,Single-size data,,2,1,0,1,3.5,10.1016/j.envpol.2017.10.095|ToMEx|sizes=3.5,Single-size data,False
+TT-Q1,Diaphanosoma celebensis,ToMEx,Single-size data,,9,1,0,1,6.2,10.1016/j.aquatox.2021.105821|ToMEx|sizes=6.2,Single-size data,False
+TT-Q1,Haliotis discus hannai,ours,Multiple-size data,Within+Across-run,9,1,1,0,"3,17.5,20,60","OURS|ours|sizes=3,17.5,20,60|dates=20220803+20231004",Multiple-size data,False
+TT-Q1,Karenia mikimotoi,ToMEx,Single-size data,,4,1,0,1,1,10.1016/j.envpol.2019.01.114|ToMEx|sizes=1,Single-size data,False
+TT-Q1,Macrophthalmus japonicus,ours,Multiple-size data,Within+Across-run,20,1,1,0,"20,60","OURS|ours|sizes=20,60|dates=20230804+20240528+20240608",Both size-data types,True
+TT-Q1,Mesocentrotus nudus,ours,Multiple-size data,Within+Across-run,12,1,1,0,"3,20,60","OURS|ours|sizes=3,20,60|dates=20220929+20220930+20240927+20240930",Both size-data types,True
+TT-Q1,Mytilus galloprovincialis,ours+ToMEx,Both size-data types,Within+Across-run,24,3,1,2,"3,10,17.5,20,29.5,60","10.3390/ani11082317|ToMEx|sizes=10; 10.3390/nano11030649|ToMEx|sizes=3; OURS|ours|sizes=3,17.5,20,29.5,60|dates=20220629+20220805+20221003+20221102+20230517",Both size-data types,False
+TT-Q1,Neomysis awatschensis,ours,Multiple-size data,Within-run,2,1,1,0,"17.5,60","OURS|ours|sizes=17.5,60|dates=202406",Multiple-size data,False
+TT-Q1,Oplegnathus fasciatus,ours,Multiple-size data,Within-run,3,1,1,0,"20,60","OURS|ours|sizes=20,60|dates=20220929",Multiple-size data,False
+TT-Q1,Oryzias melastigma,ToMEx,Single-size data,,97,1,0,1,10,10.1016/j.envpol.2019.113024|ToMEx|sizes=10,Single-size data,False
+TT-Q1,Paracentrotus lividus,ToMEx,Single-size data,,2,1,0,1,5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=5,Single-size data,False
+TT-Q1,Parvocalanus crassirostris,ToMEx,Single-size data,,2,1,0,1,7.5,10.1016/j.ecoenv.2017.03.029|ToMEx|sizes=7.5,Single-size data,False
+TT-Q1,Perinereis linea,ours,Multiple-size data,Within-run,3,1,1,0,"3,20,60","OURS|ours|sizes=3,20,60|dates=20240909",Multiple-size data,False
+TT-Q1,Pinctada margaritifera,ToMEx,Single-size data,,3,1,0,1,8,10.1021/acs.est.8b00168|ToMEx|sizes=8,Single-size data,False
+TT-Q1,Pseudechinus huttoni,ToMEx,Single-size data,,7,1,0,1,2.5,10.1016/j.marpolbul.2021.112369|ToMEx|sizes=2.5,Single-size data,False
+TT-Q1,Ruditapes philippinarum,ours,Multiple-size data,Within+Across-run,26,1,1,0,"3,7.5,20,60","OURS|ours|sizes=3,7.5,20,60|dates=20220828+20250616",Both size-data types,True
+TT-Q1,Sebastes schlegelii,ours,Multiple-size data,Within-run,4,1,1,0,"20,60","OURS|ours|sizes=20,60|dates=20220720",Multiple-size data,False
+TT-Q1,Skeletonema costatum,ToMEx,Single-size data,,1,1,0,1,1,10.1016/j.envpol.2016.11.005|ToMEx|sizes=1,Single-size data,False
+TT-Q1,Strombidium sulcatum,ToMEx,Single-size data,,4,1,0,1,1.07,10.1016/j.scitotenv.2020.144030|ToMEx|sizes=1.07,Single-size data,False
+TT-Q1,Tigriopus fulvus,ToMEx,Single-size data,,2,1,0,1,2.5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=2.5,Single-size data,False
+TT-Q1,Tigriopus japonicus,ours+ToMEx,Both size-data types,Within+Across-run,7,2,1,1,"1,6,10,20,60","10.1021/es401932b|ToMEx|sizes=6; OURS|ours|sizes=1,10,20,60|dates=2023+20230929",Both size-data types,False
+TT-Q1,Tripneustes gratilla,ToMEx,Single-size data,,2,1,0,1,28.5,0.1021/es404295e|ToMEx|sizes=28.5,Single-size data,False
+FD-Median,Aiptasiogeton eruptaurantia,ours,Multiple-size data,Within-run,3,1,1,0,"17.5,60,300","OURS|ours|sizes=17.5,60,300|dates=202407",Multiple-size data,False
+FD-Median,Brachionus koreanus,ours,Multiple-size data,Within+Across-run,44,1,1,0,"2.8,5,9.5,15,38.5,60,112.1","OURS|ours|sizes=2.8,5,9.5,15,38.5,60,112.1|dates=20220824+20230706+20230713+20230716+20230719+20250712+20250714+20251128",Both size-data types,True
+FD-Median,Brachionus plicatilis,ToMEx,Single-size data,,1,1,0,1,2.5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=2.5,Single-size data,False
+FD-Median,Crepidula onyx,ToMEx,Single-size data,,2,1,0,1,3.5,10.1016/j.envpol.2017.10.095|ToMEx|sizes=3.5,Single-size data,False
+FD-Median,Haliotis discus hannai,ours,Multiple-size data,Within+Across-run,11,1,1,0,"3,17.5,20,60,300","OURS|ours|sizes=3,17.5,20,60,300|dates=20220803+20231004",Multiple-size data,False
+FD-Median,Macrophthalmus japonicus,ours,Multiple-size data,Within+Across-run,24,1,1,0,"20,60,300,3000","OURS|ours|sizes=20,60,300,3000|dates=20230619+20230804+20240528+20240608",Both size-data types,True
+FD-Median,Mesocentrotus nudus,ours,Multiple-size data,Within+Across-run,8,1,1,0,"3,20,60,300","OURS|ours|sizes=3,20,60,300|dates=20220929+20240930",Multiple-size data,False
+FD-Median,Mytilus galloprovincialis,ours+ToMEx,Both size-data types,Within+Across-run,21,2,1,1,"3,10,17.5,20,29.5,60,300,3000","10.3390/ani11082317|ToMEx|sizes=10; OURS|ours|sizes=3,17.5,20,29.5,60,300,3000|dates=20220629+20220805+20221003+20221102+20230517",Both size-data types,False
+FD-Median,Neomysis awatschensis,ours,Multiple-size data,Within+Across-run,4,1,1,0,"17.5,60,300,3000","OURS|ours|sizes=17.5,60,300,3000|dates=202406+202407",Multiple-size data,False
+FD-Median,Oplegnathus fasciatus,ours,Multiple-size data,Within-run,3,1,1,0,"20,60","OURS|ours|sizes=20,60|dates=20220929",Multiple-size data,False
+FD-Median,Oryzias melastigma,ToMEx,Single-size data,,5,1,0,1,10,10.1016/j.envpol.2019.113024|ToMEx|sizes=10,Single-size data,False
+FD-Median,Parvocalanus crassirostris,ToMEx,Single-size data,,2,1,0,1,7.5,10.1016/j.ecoenv.2017.03.029|ToMEx|sizes=7.5,Single-size data,False
+FD-Median,Perinereis linea,ours,Multiple-size data,Within-run,4,1,1,0,"3,20,60,300","OURS|ours|sizes=3,20,60,300|dates=20240909",Multiple-size data,False
+FD-Median,Pinctada margaritifera,ToMEx,Single-size data,,3,1,0,1,8,10.1021/acs.est.8b00168|ToMEx|sizes=8,Single-size data,False
+FD-Median,Ruditapes philippinarum,ours,Multiple-size data,Within+Across-run,22,1,1,0,"3,7.5,20,60,150,250","OURS|ours|sizes=3,7.5,20,60,150,250|dates=20220828+20250616",Both size-data types,True
+FD-Median,Sebastes schlegelii,ours,Multiple-size data,Within+Across-run,16,1,1,0,"20,60,112,112.1,300,3000","OURS|ours|sizes=20,60,112,112.1,300,3000|dates=20220720+20230725+20250715",Multiple-size data,False
+FD-Median,Tigriopus fulvus,ToMEx,Single-size data,,2,1,0,1,2.5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=2.5,Single-size data,False
+FD-Median,Tigriopus japonicus,ours+ToMEx,Both size-data types,Within+Across-run,7,2,1,1,"1,6,10,20,60","10.1021/es401932b|ToMEx|sizes=6; OURS|ours|sizes=1,10,20,60|dates=2023+20230929",Both size-data types,False
+FD-Median,Tripneustes gratilla,ToMEx,Single-size data,,2,1,0,1,28.5,0.1021/es404295e|ToMEx|sizes=28.5,Single-size data,False
+TT-Median,Aiptasiogeton eruptaurantia,ours,Multiple-size data,Within-run,2,1,1,0,"17.5,60","OURS|ours|sizes=17.5,60|dates=202407",Multiple-size data,False
+TT-Median,Brachionus koreanus,ours,Multiple-size data,Within+Across-run,39,1,1,0,"2.8,5,9.5,15,38.5,60","OURS|ours|sizes=2.8,5,9.5,15,38.5,60|dates=20220824+20230706+20230713+20230716+20230719",Multiple-size data,False
+TT-Median,Brachionus plicatilis,ToMEx,Single-size data,,1,1,0,1,2.5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=2.5,Single-size data,False
+TT-Median,Crepidula onyx,ToMEx,Single-size data,,2,1,0,1,3.5,10.1016/j.envpol.2017.10.095|ToMEx|sizes=3.5,Single-size data,False
+TT-Median,Haliotis discus hannai,ours,Multiple-size data,Within+Across-run,8,1,1,0,"3,17.5,20,60","OURS|ours|sizes=3,17.5,20,60|dates=20220803+20231004",Multiple-size data,False
+TT-Median,Karenia mikimotoi,ToMEx,Single-size data,,1,1,0,1,1,10.1016/j.envpol.2019.01.114|ToMEx|sizes=1,Single-size data,False
+TT-Median,Macrophthalmus japonicus,ours,Multiple-size data,Within+Across-run,12,1,1,0,"20,60","OURS|ours|sizes=20,60|dates=20230804+20240528+20240608",Both size-data types,True
+TT-Median,Mesocentrotus nudus,ours,Multiple-size data,Within+Across-run,6,1,1,0,"3,20,60","OURS|ours|sizes=3,20,60|dates=20220929+20240930",Multiple-size data,False
+TT-Median,Mytilus galloprovincialis,ours+ToMEx,Both size-data types,Within+Across-run,14,2,1,1,"3,10,17.5,20,29.5,60","10.3390/ani11082317|ToMEx|sizes=10; OURS|ours|sizes=3,17.5,20,29.5,60|dates=20220629+20220805+20221003+20221102+20230517",Both size-data types,False
+TT-Median,Neomysis awatschensis,ours,Multiple-size data,Within-run,2,1,1,0,"17.5,60","OURS|ours|sizes=17.5,60|dates=202406",Multiple-size data,False
+TT-Median,Oplegnathus fasciatus,ours,Multiple-size data,Within-run,3,1,1,0,"20,60","OURS|ours|sizes=20,60|dates=20220929",Multiple-size data,False
+TT-Median,Oryzias melastigma,ToMEx,Single-size data,,5,1,0,1,10,10.1016/j.envpol.2019.113024|ToMEx|sizes=10,Single-size data,False
+TT-Median,Paracentrotus lividus,ToMEx,Single-size data,,2,1,0,1,5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=5,Single-size data,False
+TT-Median,Parvocalanus crassirostris,ToMEx,Single-size data,,2,1,0,1,7.5,10.1016/j.ecoenv.2017.03.029|ToMEx|sizes=7.5,Single-size data,False
+TT-Median,Perinereis linea,ours,Multiple-size data,Within-run,3,1,1,0,"3,20,60","OURS|ours|sizes=3,20,60|dates=20240909",Multiple-size data,False
+TT-Median,Pinctada margaritifera,ToMEx,Single-size data,,3,1,0,1,8,10.1021/acs.est.8b00168|ToMEx|sizes=8,Single-size data,False
+TT-Median,Pseudechinus huttoni,ToMEx,Single-size data,,2,1,0,1,2.5,10.1016/j.marpolbul.2021.112369|ToMEx|sizes=2.5,Single-size data,False
+TT-Median,Ruditapes philippinarum,ours,Multiple-size data,Within+Across-run,15,1,1,0,"3,7.5,20,60","OURS|ours|sizes=3,7.5,20,60|dates=20220828+20250616",Both size-data types,True
+TT-Median,Sebastes schlegelii,ours,Multiple-size data,Within-run,4,1,1,0,"20,60","OURS|ours|sizes=20,60|dates=20220720",Multiple-size data,False
+TT-Median,Strombidium sulcatum,ToMEx,Single-size data,,4,1,0,1,1.07,10.1016/j.scitotenv.2020.144030|ToMEx|sizes=1.07,Single-size data,False
+TT-Median,Tigriopus fulvus,ToMEx,Single-size data,,2,1,0,1,2.5,10.1016/j.jhazmat.2018.07.101|ToMEx|sizes=2.5,Single-size data,False
+TT-Median,Tigriopus japonicus,ours+ToMEx,Both size-data types,Within+Across-run,7,2,1,1,"1,6,10,20,60","10.1021/es401932b|ToMEx|sizes=6; OURS|ours|sizes=1,10,20,60|dates=2023+20230929",Both size-data types,False
+TT-Median,Tripneustes gratilla,ToMEx,Single-size data,,2,1,0,1,28.5,0.1021/es404295e|ToMEx|sizes=28.5,Single-size data,False
