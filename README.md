@@ -3,19 +3,22 @@
 **Toxicity data processing and SSD analysis reproduction code (Figs. 1–3)** — microplastic
 marine water-quality criteria (MP_EQS study).
 
-This repository reproduces Figures 1–3 of the manuscript, i.e. the toxicity-data
-processing chain and the species-sensitivity-distribution (SSD) analyses behind every
-HC5 / TR (threshold ratio) value used in those figures. It is **not** a full-reproduction
-package for the entire manuscript: manuscript text, SI figures (Figs. 4/S1), and
-monitoring-data analyses are out of scope.
+This repository provides the analysis code and the **processed (derived) input tables**
+behind Figures 1–3 of the manuscript (every HC5 / TR (threshold realization) value used
+in those figures). With the tables supplied here, the three figures can be **regenerated**
+and selected SSD computations can be **recomputed** (see Reproduction). It is **not** a
+full-reproduction package from raw records: the third-party ToMEx export and some upstream
+size-representativeness intermediates (consumed by the Fig. 2 HC5 bootstrap engine) are not
+included. Also out of scope: the manuscript text, **Fig. 4 (national monitoring application)
+and the monitoring-data analyses**, and the Supplementary Materials.
 
 ## Scope
 
 | Output | What it shows | Reproduced by |
 |---|---|---|
-| Fig. 1 | Size-resolved cross-comparison of microplastic effect data (parity of acute/chronic pool sensitivities; power-law shape check `p(L) ∝ L^-α`) | `code/fig1_empirical_test_v23.py` (+ helper `code/track1_fourpanel_applicability.py`) |
-| Fig. 2 | Pooled SSD curves (GM vs. minimum-value pools, acute/chronic) → HC5 | `code/fig2_v9_pools.py`, `code/ssd_pooled_v4_merge.py`, `code/ssd_pooled_v4_fix1000.py` → `code/fig2_ssdtools_render_v12.R` |
-| Fig. 3 | Single-lognormal SSDs per uptake mechanism (food dilution / translocation) and nominal particle size (T = 12/20/300 µm) → TR1–TR4 | `code/ssd_tomex_alpha207.py`, `code/fig3_lognormal_band_v1.py`, `code/fig3_recompute_check.py`, `code/fig3_panel_sizeclass_v2.py` → `code/fig3_lognormal_render_v3.R` |
+| Fig. 1 | Particle-size normalization paired assessment: (a) predicted vs. observed effect concentrations (particles/L) under two exponent settings (α = 2.07 seawater-associated, α = 1.60 generic); (b) empirical size–effect power-law description and reference (environmental) particle-size distributions, `p(L) ∝ L^-α` (20–300 µm window) | `code/fig1_empirical_test_v23.py` (+ helper `code/track1_fourpanel_applicability.py`) |
+| Fig. 2 | Conventional pooled SSDs (GM vs. minimum-value pools; acute/chronic) with HC5 point estimates and 95% CIs, rendered from the locked ssdtools model-averaged fit values | `code/fig2_v9_pools.py`, `code/ssd_pooled_v4_merge.py`, `code/ssd_pooled_v4_fix1000.py` → `code/fig2_ssdtools_render_v12.R` |
+| Fig. 3 | Normalized, mechanism-specific single-lognormal SSDs with derived threshold realizations TR1–TR4 — four panels by uptake mechanism × realization level: (a) FD–Q1, (b) TT–Q1, (c) FD–median, (d) TT–median; size-class records (T = 12, 20, 300 µm) pooled within each panel | `code/ssd_tomex_alpha207.py`, `code/fig3_lognormal_band_v1.py`, `code/fig3_recompute_check.py`, `code/fig3_panel_sizeclass_v2.py` → `code/fig3_lognormal_render_v3.R` |
 
 Toxicity-data processing chain (`code/step1_rescale.py` → `step2_align.py` →
 `step3_thresholds.py`, built on `code/mp_pipeline_lib.py`) rescales and aligns the
@@ -25,7 +28,7 @@ experimental endpoints and derives the SSD input database.
 
 ```
 code/          13 Python + 2 R scripts (tables above)
-data/          derived, figure-ready CSV/JSON used as locked inputs
+data/          processed, figure-ready CSV/JSON used as locked inputs
 data/raw/      3 self-compiled Excel workbooks of the study toxicity database
 verification/  locked value tables, render audit logs, published figures
 ```
@@ -34,40 +37,51 @@ verification/  locked value tables, render audit logs, published figures
 
 - `data/raw/` contains the three **self-compiled** Excel workbooks used to assemble the
   toxicity database (curated by the authors; safe to redistribute).
-- `data/` contains the derived CSV/JSON inputs for every figure script, so Figs. 1–3 can be
-  regenerated from this repository alone, except where noted below.
-- **ToMEx** (Toxicity of Microplastics Exploration database; Koelmans *et al.*): the raw
-  ToMEx export is **not redistributed** (third-party database). Two entry points expect it
-  as `data/ToMEx_Exploration2026-03-24.csv`:
-  - `code/ssd_tomex_alpha207.py` (Fig. 3 TR source engine),
-  - `code/step2_align.py` (unified DB build).
+- `data/` contains the **processed input tables** for every figure script, so Figs. 1–3 can
+  be regenerated from this repository alone (tier A below), except where noted.
+- **ToMEx** (Toxicity of Microplastics Exploration database; Thornton Hampton *et al.* 2022,
+  2025): the raw export is **not redistributed** (third-party database). Two entry points
+  expect it as `data/ToMEx_Exploration2026-03-24.csv`:
+  - `code/ssd_tomex_alpha207.py` (Fig. 3 TR source engine — recomputes the size-class-level
+    thresholds from raw records),
+  - `code/step2_align.py` (unified DB build from raw records).
   Users with their own ToMEx export can place it at that path; all ToMEx-derived
-  intermediates needed for the Fig. 2–3 renders are already included in `data/`.
+  intermediates needed for the Fig. 2–3 **renders** are already included in `data/`.
 - `code/ssd_pooled_v4_merge.py` / `_fix1000.py` (Fig. 2 HC5 bootstrap engine) additionally
-  expect upstream size-representativeness intermediates not shipped here; the locked
+  expect upstream size-representativeness intermediates **not shipped here**; the locked
   `data/ssd_pooled_hc5_v9.csv` / `ssd_pooled_reps_v9.csv` are what the renderer consumes.
+  Fig. 2 regeneration therefore means rendering from the locked tables, not re-running the
+  HC5 bootstrap engine itself.
 
 ## Reproduction (run from the repository root)
 
+Two levels — figure regeneration from the shipped processed tables, and recomputation from
+raw records that requires data not included here:
+
 ```bash
-# Fig. 1 (out-of-the-box)
-python3 code/fig1_empirical_test_v23.py          # -> output/fig1_v23_empirical_test.png
+# --- A) Regenerate figures / check from shipped processed inputs (runs as-is) ---
+python3 code/fig1_empirical_test_v23.py          # Fig. 1 -> output/fig1_v23_empirical_test.png
+python3 code/fig2_v9_pools.py                    # Fig. 2 pool assembly -> output/fig2_pools/
+Rscript code/fig2_ssdtools_render_v12.R          # Fig. 2 render (reads locked ssd_pooled_hc5_v9/reps)
+python3 code/fig3_lognormal_band_v1.py           # Fig. 3 band/curve build -> output/fig3_lognormal_build/
+python3 code/fig3_recompute_check.py             # Fig. 3 SSD recomputation check (agreement 1e-9)
+Rscript code/fig3_lognormal_render_v3.R          # Fig. 3 render -> output/fig3_lognormal_v3.png
 
-# Fig. 2 (out-of-the-box render; HC5 engine needs upstream chain, see Data notes)
-python3 code/fig2_v9_pools.py                    # -> output/fig2_pools/
-Rscript code/fig2_ssdtools_render_v12.R          # -> output/fig2_ssdtools_v12.png
+# --- B) Recompute-level engines (require data NOT included here) ---
+python3 code/ssd_pooled_v4_merge.py              # Fig. 2 HC5 bootstrap engine -> upstream intermediates (not shipped)
+python3 code/ssd_pooled_v4_fix1000.py            # Fig. 2 HC5 fix -> same upstream intermediates
+python3 code/ssd_tomex_alpha207.py               # Fig. 3 TR source engine -> needs ToMEx export
+python3 code/fig3_panel_sizeclass_v2.py          # Fig. 3 size-class adjudication -> needs ToMEx export
 
-# Fig. 3 band/TR computation (out-of-the-box from locked inputs)
-python3 code/fig3_lognormal_band_v1.py           # -> output/fig3_lognormal_build/
-python3 code/fig3_recompute_check.py             # cross-check vs ssdtools inputs
-python3 code/fig3_panel_sizeclass_v2.py          # -> output/fig3_sizeclass/ (needs ToMEx export)
-Rscript code/fig3_lognormal_render_v3.R          # -> output/fig3_lognormal_v3.png
-
-# Toxicity-data processing chain
-python3 code/step1_rescale.py                    # -> output/py_out/ (from data/raw xlsx)
-python3 code/step2_align.py                      # needs ToMEx export + search-DB xlsx
-python3 code/step3_thresholds.py                 # -> output/py_out/ criteria tables
+# --- C) Toxicity-data processing chain (full rebuild) ---
+python3 code/step1_rescale.py                    # runs as-is (reads data/raw xlsx) -> output/py_out/
+python3 code/step2_align.py                      # unified DB build -> needs ToMEx export + search-DB xlsx
+python3 code/step3_thresholds.py                 # criteria tables -> needs step2 output
 ```
+
+The shipped `verification/` tables let every figure be regenerated without tier B, while
+tier B/C document honestly which recomputation steps need the (third-party or upstream)
+files that are not redistributed.
 
 ## Locked values (verbatim from `verification/`)
 
